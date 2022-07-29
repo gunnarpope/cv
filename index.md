@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gunnar Pope's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Gunnar 
+Algorithm Engineer, Scientist, Athlete, Dad 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -17,28 +17,17 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Embedded sensor design, IoT, Machine Learning, Automation, CI/CD, Steep Skiing, Surfing Grovlers
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Low Power Design, Instrumentation Design, Real-Time Systems, Applied AI, Scripting & Automation
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2012-2019`
+__Dartmouth College, Hanover NH__
 
 
 
