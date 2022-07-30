@@ -2,27 +2,27 @@
 layout: cv
 title: Gunnar Pope's CV
 ---
-# Gunnar 
-Algorithm Engineer, Scientist, Athlete, Dad 
+# Gunnar Pope 
+Algorithm Designer, Embedded Engineer, Data Scientist, Athlete, Dad 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://gunnarpope@github.io/cv">gunnarpope@github.io/cv</a>
+| <a href="https://www.linkedin.com/in/gunnar-pope-2a64504a/">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Lead Algorithm Engineer and Senior Product Development Engineer at Simbex.
 
 ### Specialized in
 
-Embedded sensor design, IoT, Machine Learning, Automation, CI/CD, Steep Skiing, Surfing Grovlers
-
+ 
+Physiological Sensing, Applied ML, IoT, Algorithm Design, Stress Detection, Gait Analysis, Fall Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Intrumentaiton, Medical Electronics,
 
 ### Research interests
 
-Low Power Design, Instrumentation Design, Real-Time Systems, Applied AI, Scripting & Automation
+Low Power Sensor Design, Instrumentation Design, Embedded ML Applications 
 
 ## Education
 
@@ -42,17 +42,12 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://www.researchgate.net/profile/Gunnar-Pope) -->
 
 ### Journals
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
