@@ -14,7 +14,6 @@ Algorithm Designer, Embedded Engineer, Data Scientist, Builder, Athlete, Dad
 ## Address
 PO Box 1
 Hanover, NH 03755
-+1 (six0three) 717-8764
 
 ## Currently
 
