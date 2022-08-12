@@ -3,7 +3,7 @@ layout: cv
 title: Gunnar Pope's CV
 ---
 # Gunnar Pope, PhD 
-Algorithm Designer, Embedded Engineer, Data Scientist, Builder, Athlete, Dad 
+Leader in Mobile Health Technologies, Data Scientist, Algorithm Engineer, Athlete, Dad 
 
 <div id="webaddress">
 <a href="https://github.com/gunnarpope">GitHub</a>
@@ -22,14 +22,14 @@ Lead Algorithm Engineer and Senior Product Development Engineer at Simbex. Desig
 <!-- ## Professional Objective -->
 
 
-### Specialized in
+## Specialized in
 
  
-Physiological Sensing, Applied ML, IoT, Algorithm Design, Stress Detection, Gait Analysis, Fall Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Intrumentaiton, Medical Electronics,
+Wearable Sensor Technologies, Physiological Sensing, Applied ML, IoT, Algorithm Design, Stress-Detection, Gait Analysis, Fall-Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Intrumentation Design, Medical Electronics, Test-Driven Design, Automation
 
-### Research interests
+## Research interests
 
-Embedded ML applications for health and wellness applications, Stress Detection, Gait Analysis, Low-Power Sensor Design, Instrumentation Design, Algorithmic Trading 
+Applied Machine Learning Applications for Health and Wellness Technologies, Stress Detection, Gait Analysis, Low-Power Sensor Design, Instrumentation Design, Algorithmic Trading 
 
 ## Education
 
@@ -52,21 +52,14 @@ Major: Electrical/Electronics Engineering
 Citation for Meritorious Performance, Dartmouth College `Nov 2013`   
 Relevant Coursework: Microprocessors in Engineering Systems; Power Electronics; Analog and Digital Design; Distributed Systems   
 
-
-
-
 __Flathead Valley Community College, Kalispell MT__  `2010-2012`  
 *Associate of Science in Engineering*   
 Concentration in Electrical Engineering
-
-
-
 
 __University of Colorado, Boulder CO__  `2001-2005`  
 *Bachelor of Arts*
 Major: Physical Geography  
 Minor: Atmospheric Science  
-
 
 ## Programming Languages
 | C 
@@ -79,9 +72,27 @@ Minor: Atmospheric Science
 | MATLAB
 
 
-## Awards
+<!-- ## Awards -->
 
 ## Publications
+
+## Professional Achievements
+**Patent Pending**, ``A micro-recording device for physiological signals" `Aug 2018`   
+Inventors: Halter, R.J., Pope, G.C.  
+Application Number: 62722520   
+
+**Research Funding** National Science Foundation, Computer and Network Systems `Oct 2016` 
+Award Number: CNS-1619970 -  Award Amount: \$815,840.00 - PI(s): Halter/Kotz  
+
+**Research Funding** `Oct 2014`  
+National Science Foundation, Computer and Network Systems   
+Award Number: CNS-1314281 & Award Amount: $1,009,430.00   
+Award Number: CNS-1314281 - Award Amount: \$1,009,430.00 - PI(s): Halter/Kotz  
+
+**Fundamentals of Engineering Exam** `May 2014` 
+National Council of Examiners for Engineering and Surveying, Concord, NH
+[Certification Link](https://account.ncees.org/rn/1515321-720566-7c580a4) 
+
 
 <!-- A list is also available [online](https://www.researchgate.net/profile/Gunnar-Pope) -->
 
@@ -108,22 +119,6 @@ Last updated: July 2022 -->
 My background in the digital world is mainly focused on engineering computer systems with a specialty in ultra-low resource computing on wearable biosensors. Our designs are full embedded systems for physiological recording and incorporate novel methods of quasi-digital signal measurement, data compression, and automation to improve the miniaturization of wearables. 
 
 
-## Computer Skills
-
-## Professional Achievements
-**Patent Pending**, ``A micro-recording device for physiological signals" \hfill Aug. 2018  
-Inventors: Halter, R.J., Pope, G.C.
-Application Number: 62722520  
-Research Funding, National Science Foundation, Computer and Network Systems \hfill Oct. 2016  
-Award Number: CNS-1619970 -  Award Amount: \$815,840.00 - PI(s): Halter/Kotz  
-
-**Research Funding**, National Science Foundation, Computer and Network Systems \hfill Oct. 2014
-Award Number: CNS-1314281 & Award Amount: $1,009,430.00 
-Award Number: CNS-1314281 - Award Amount: \$1,009,430.00 - PI(s): Halter/Kotz
-
-**Fundamentals of Engineering Exam**, Status: *Passed* May 2014  
-National Council of Examiners for Engineering and Surveying, Concord, NH
-https://account.ncees.org/rn/1515321-720566-7c580a4 
 
 ## Work Experience
 **Electical/Computer Engineer at EOS Sweden** June 2019 - Nov 2019  
