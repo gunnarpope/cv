@@ -72,16 +72,16 @@ Minor: Atmospheric Science
 | MATLAB
 
 
-<!-- ## Awards -->
-
-## Publications
 
 ## Professional Achievements
-**Patent Pending**, ``A micro-recording device for physiological signals" `Aug 2018`   
+**Patent Pending** `Aug 2018`   
+``A micro-recording device for physiological signals"   
 Inventors: Halter, R.J., Pope, G.C.  
-Application Number: 62722520   
+Application Number: US17/270,971  
+Publication number: [US20210251574A1](https://www.patentguru.com/US2021251574A1) 
 
-**Research Funding** National Science Foundation, Computer and Network Systems `Oct 2016` 
+**Research Funding** `Oct 2016` 
+National Science Foundation, Computer and Network Systems  
 Award Number: CNS-1619970 -  Award Amount: \$815,840.00 - PI(s): Halter/Kotz  
 
 **Research Funding** `Oct 2014`  
@@ -96,8 +96,6 @@ National Council of Examiners for Engineering and Surveying, Concord, NH
 
 <!-- A list is also available [online](https://www.researchgate.net/profile/Gunnar-Pope) -->
 
-### Projects 
-### Journals
 ### Patents
 `2019-(pending)`  
 __Microcontroller for recording and storing physiological data__  
@@ -106,28 +104,14 @@ Patent #: US20210251574A1
 Abstract:  
 A microcontroller for recording and storing physiological data includes an analog-to-digital converter for converting analog physiological sensor signals to digital signals, a sample buffer for holding a temporal sequence of the digital signals, a central processing unit (CPU), and a non-volatile memory. The non-volatile memory includes (i) a code storage encoding machine-readable data compression instructions that, when executed by the CPU, control the CPU to (a) transform the temporal sequence of the digital signals to produce transformed physiological data characterized by a set of transformation coefficients and (b) compress the set of transformation coefficients to generate compressed physiological data, and (ii) a data storage configured to contain several different instances of the compressed physiological data respectively associated with several different instances of the temporal sequence of the digital signals.  
 
-## Occupation
-
-<!-- ### Footer
-
-Last updated: July 2022 -->
-
-
-
-## Qualifications
-
-My background in the digital world is mainly focused on engineering computer systems with a specialty in ultra-low resource computing on wearable biosensors. Our designs are full embedded systems for physiological recording and incorporate novel methods of quasi-digital signal measurement, data compression, and automation to improve the miniaturization of wearables. 
-
-
-
 ## Work Experience
-**Electical/Computer Engineer at EOS Sweden** June 2019 - Nov 2019  
-Stockholm, Sweden (Remotely)
+**Electical/Computer Engineer at EOS Sweden** `Jun 2019 - Nov 2019`  
+Stockholm, Sweden (Remote Work)
 * On-line collaboration to develop a global payment system based on EOS.IO blockchain software. 
 * Applied Cryptography and Big Data Analytics
 * https://eossweden.org
 
-**Ph.D. Candidate and Researcher** Sep. 2014 - June 2019  
+**Ph.D. Candidate and Researcher** `Sep. 2014 - June 2019`   
 Thayer School of Engineering at Dartmouth College, Hanover, NH  
 * Collaborating with Dartmouth's Computer Science Department, Clemson University, and the Center of Technology and Behavior Health to translate digital health technologies into real-world applications.
 * Developing analog and quasi-digital instrumentation for ultra-low power biomedical sensors.
@@ -135,29 +119,43 @@ Thayer School of Engineering at Dartmouth College, Hanover, NH
 * Applying full-stack computer engineering methods to measure, record, visualize, and analyze \\biomedical data.
 * Characterizing of sensor performance using statistical analysis.  
 
-**Quasi-Digital Sensor Design**  
+**Quasi-Digital Sensor Design**  `Jun 2019` 
 Low-Resource EDA Sensor Fabrication  
 * First development of a wearable, long-term physiological recorder based on a single 16-bit microcontroller
 * Implemented a multi-level wavelet transformation of the EDA signal
 * Applied real-time signal compression on-board a 16-bit MCU
 
-**Cook Engineering Design Fellow** June 2014 – Sept. 2014
+**Cook Engineering Design Fellow** `Jun 2014 – Sep 2014`  
 Thayer School of Engineering at Dartmouth College, Hanover, NH  
-* Recruited engineering projects from industry professionals by matching workplace \\ problems with relevant student talent.
+* Recruited engineering projects from industry professionals by matching workplace problems with relevant student talent.
 * Defined scope and breath engineering projects for ENGS 89/90 program.
 * https://engineering.dartmouth.edu/cook/
 
-**Energy Analyst Intern** June 2013 - Sept. 2013  
+**Energy Analyst Intern** `Jun 2013 - Sep 2013`   
 Energy Program Office at Dartmouth College, Hanover, NH  
 * Created tools to automate analytics for industrial-scale HVAC data sets to pinpoint inefficient processes.
 * Constructed and tested efficient collection regimes for large-scale data sets.
-* Communicated results to team leader and presented recommendations at weekly meetings with \\colleagues.
+* Communicated results to team leader and presented recommendations at weekly meetings with colleagues.
 
 
-**Owner**, Pope Custom Construction Sept. 2006 -- May 2012  
-General Contracting, Whitefish, MT
+**Owner** `Sep 2006 -- May 2012`  
+Pope Custom Construction   
+General Contracting, Whitefish, MT  
 * Managed, supervised and constructed numerous multi-million dollar homes 
 * Coordinated tradesman across multiple stages of the building process
+
+
+## END
+
+## Awards
+## Publications
+### Journals
+## Occupation
+
+<!-- ### Footer
+
+Last updated: July 2022 -->
+
 
 ## Projects
 {\bf The ICE-MITT Project}, Mobile Ice-Core Cooling System \hfill Summer 2014\\
