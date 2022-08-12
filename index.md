@@ -19,7 +19,7 @@ Hanover, NH 03755
 
 Lead Algorithm Engineer and Senior Product Development Engineer at Simbex. Designing and deploying wireless sensor technologies for health and wellness applications. Applications include real-time gait analysis, step detection, wearable compliance monitors, fall-detection algorithms. 
 
-## Professional Objective
+<!-- ## Professional Objective -->
 
 
 ### Specialized in
@@ -33,26 +33,50 @@ Embedded ML applications for health and wellness applications, Stress Detection,
 
 ## Education
 
-`2014-2019`
-__Dartmouth College, Hanover NH__  
-*Doctorate (PhD)*, Concentration in Biomedical and Electrical Engineering  
-Thesis Title: 'An Ultra-Low Power System for Electromodermal Activity Monitoring'  
+__Dartmouth College, Hanover NH__ `2014-2019`    
 
-`2012-2014`
-__Dartmouth College, Hanover NH__  
-*Bachelor of Engineering*, Concentration in Electrical Engineering  
-Citation for Meritorious Performance, Environmental Engineering
+*Doctor of Philosophy (Ph.D.)*  
+Thayer School of Engineering, Hanover, NH   
+Thesis Title: *An Ultra-Low Resource System for Electrodermal Activity Monitoring*   
+Thesis Topic: Ultra-Low Power Wearable Biosensors  
+Concentration in Biomedical and Electrical Engineering   
+Advisor: Ryan J. Halter, Ph.D.  
+Relevant Coursework: Ultra-Low Power Embedded Systems; Advanced Digital Electronics and Signal Processing; Biomedical Instrumentation Design; Computer Engineering; Machine Learning
 
-`2010-2012`
-__Flathead Valley Community College, Kalispell MT__  
-*Associates of Science*, Concentration in Physics 
 
-`2001-2005`
-__University of Colorado, Boulder CO__  
-*Bachelor of Arts in Physical Geography, Minor in Atmospheric Science*  
+
+__Dartmouth College, Hanover NH__ `2012-2014`    
+*Bachelor of Engineering*  
+Thayer School of Engineering, Hanover, NH   
+Major: Electrical/Electronics Engineering   
+Citation for Meritorious Performance, Dartmouth College `Nov 2013`   
+Relevant Coursework: Microprocessors in Engineering Systems; Power Electronics; Analog and Digital Design; Distributed Systems   
+
+
+
+
+__Flathead Valley Community College, Kalispell MT__  `2010-2012`  
+*Associate of Science in Engineering*   
+Concentration in Electrical Engineering
+
+
+
+
+__University of Colorado, Boulder CO__  `2001-2005`  
+*Bachelor of Arts*
+Major: Physical Geography  
+Minor: Atmospheric Science  
+
 
 ## Programming Languages
-C, Python, Scikit-Learn, TensorFlow, Altium, MATLAB, Bash, Linux
+| C 
+| Python
+| Linux
+| Bash
+| Scikit-Learn
+| TensorFlow
+| Altium
+| MATLAB
 
 
 ## Awards
@@ -83,32 +107,6 @@ Last updated: July 2022 -->
 
 My background in the digital world is mainly focused on engineering computer systems with a specialty in ultra-low resource computing on wearable biosensors. Our designs are full embedded systems for physiological recording and incorporate novel methods of quasi-digital signal measurement, data compression, and automation to improve the miniaturization of wearables. 
 
-## Education
-Doctor of Philosophy (Ph.D.)} \hfill June 2019   
-Thayer School of Engineering at Dartmouth College, Hanover, NH  
-Concentration in Biomedical and Electrical Engineering  
-Advisor: Ryan J. Halter, Ph.D.  
-Thesis Topic: Ultra-Low Power Wearable Biosensors  
-Thesis Title: *An Ultra-Low Resource System for Electrodermal Activity Monitoring*   
-Relevant Coursework: Ultra-Low Power Embedded Systems; Advanced Digital Electronics and    
-Signal Processing; Biomedical Instrumentation Design; Computer Engineering
-
-Bachelor of Engineering June 2014  
-Thayer School of Engineering at Dartmouth College, Hanover, NH   
-Major: Electrical/Electronics Engineering   
-Citation for academic excellence, Dartmouth College, November 2013   
-Relevant Coursework: Microprocessors in Engineering Systems; Power Electronics;    
-Analog and Digital Design; Distributed Systems 
-
-
-Associate of Science in Engineering May 2012    
-Flathead Valley Community College, Kalispell, MT   
-Electrical Engineering
-
-Bachelor of Arts June 2005   
-University of Colorado, Boulder, CO    
-Major: Physical Geography   
-Minor: Atmospheric Science   
 
 ## Computer Skills
 
