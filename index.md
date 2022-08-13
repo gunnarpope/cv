@@ -3,7 +3,7 @@ layout: cv
 title: Gunnar Pope's CV
 ---
 # Gunnar Pope, PhD 
-Leader in Mobile Health Technologies, Data Scientist, Algorithm Engineer, Athlete, Dad 
+Leader in Mobile Health Technologies, Data Science, Algorithm Design
 
 <div id="webaddress">
 <a href="https://github.com/gunnarpope">GitHub</a>
@@ -67,9 +67,8 @@ Minor: Atmospheric Science
 | Linux
 | Bash
 | Scikit-Learn
-| TensorFlow
-| Altium
 | MATLAB
+| Altium
 
 
 
@@ -96,16 +95,19 @@ National Council of Examiners for Engineering and Surveying, Concord, NH
 
 <!-- A list is also available [online](https://www.researchgate.net/profile/Gunnar-Pope) -->
 
-### Patents
-`2019-(pending)`  
-__Microcontroller for recording and storing physiological data__  
-Patent #: US20210251574A1  
-
-Abstract:  
-A microcontroller for recording and storing physiological data includes an analog-to-digital converter for converting analog physiological sensor signals to digital signals, a sample buffer for holding a temporal sequence of the digital signals, a central processing unit (CPU), and a non-volatile memory. The non-volatile memory includes (i) a code storage encoding machine-readable data compression instructions that, when executed by the CPU, control the CPU to (a) transform the temporal sequence of the digital signals to produce transformed physiological data characterized by a set of transformation coefficients and (b) compress the set of transformation coefficients to generate compressed physiological data, and (ii) a data storage configured to contain several different instances of the compressed physiological data respectively associated with several different instances of the temporal sequence of the digital signals.  
-
 ## Work Experience
-**Electical/Computer Engineer at EOS Sweden** `Jun 2019 - Nov 2019`  
+**Senior Product Development Engineer** `Jan 2020 - Present`
+Simbex LLC, Lebanon, NH  
+* Lead algorithm engineer of wearable technologies and physiological monitoring. 
+* Working with clients to translate their product vision into technical requirements and features.
+* Digital architect for real-time processing applications on resource-contstrained devices.
+* Leveraging machine learning (ML) algorithms to classify physiological behavior.
+* Deploying Machine Learning applications (MLops) into the cloud and on embedded devices
+* Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment.
+* Full stack algorithm development using Python for algorithm development and then translating algorithm to embedded-C on a wearable, wirless device. 
+* Extensive background in low-power, wireless communication (BLE)
+
+**Blockchain Engineer at EOS Sweden** `Jun 2019 - Nov 2019`  
 Stockholm, Sweden (Remote Work)
 * On-line collaboration to develop a global payment system based on EOS.IO blockchain software. 
 * Applied Cryptography and Big Data Analytics
@@ -116,7 +118,7 @@ Thayer School of Engineering at Dartmouth College, Hanover, NH
 * Collaborating with Dartmouth's Computer Science Department, Clemson University, and the Center of Technology and Behavior Health to translate digital health technologies into real-world applications.
 * Developing analog and quasi-digital instrumentation for ultra-low power biomedical sensors.
 * Specializing in digital signal processing on low-resource embedded devices.
-* Applying full-stack computer engineering methods to measure, record, visualize, and analyze \\biomedical data.
+* Applying full-stack computer engineering methods to measure, record, visualize, and analyze biomedical data.
 * Characterizing of sensor performance using statistical analysis.  
 
 **Quasi-Digital Sensor Design**  `Jun 2019` 
@@ -145,219 +147,133 @@ General Contracting, Whitefish, MT
 * Coordinated tradesman across multiple stages of the building process
 
 
-## END
-
-## Awards
-## Publications
-### Journals
-## Occupation
-
 <!-- ### Footer
 
 Last updated: July 2022 -->
 
 
 ## Projects
-{\bf The ICE-MITT Project}, Mobile Ice-Core Cooling System \hfill Summer 2014\\
-\tab Thayer School of Engineering at Dartmouth College, Hanover, NH 
-\begin{itemize}
-	\item Designed, constructed, and implemented a mobile, 1 kW thermoelectric cooling system for the \\transportation of ice cores
-	from Barrow, AK to Hanover, NH.
-	\item Developed cooling system was first to transport arctic sea ice at original temperatures.
-%	\item  https://engineering.dartmouth.edu/magazine/dartmouth-engineers-develop-new-device-for-climate-change-research/
-\end{itemize}
 
-{\bf Hypertherm Sustainability Project} \hfill Sept. 2013 - March 2014\\
-%\tab Thayer School of Engineering at
-%Dartmouth College, Hanover, NH \\
-\tab 21 Great Hollow Road, Hypertherm Inc., Lebanon, NH
-\begin{itemize}
-	\item Worked in a team of 4 to assess the feasibility of a bio-fuel based commercial boiler to replace \\a 2.2 MMBtu/hr diesel system.
-	\item Provided automated calculator for alternative commercial heating systems using sustainable fuels.
-	\item Presented findings and recommendations to board members (implemented: June 2015).
-%	\item https://engineering.dartmouth.edu/cook/previous/energy-environment
-\end{itemize}
+**Silvertree** `2021-present` 
+* Designed a Fall-Detection Algorithm for aging adults leveraging an embedded machine learning application within the an IMU (LSM6DSOX)  
+* Designed the experiemtal designs for algorithm development and verification
+* Leveraged wireless BLE communication using Nordic Semiconductor's BLE SoC (nRF52840)
+* Embedded ML algorithm withing STmicro's LSM6DSOX for ultra low-power operation
+* [Silvertree](https://silvertree.io/)
+
+**Medrhythms** `2021-present` 
+* Designed a real-time gait cycle time analyzer measuring Toe-Off and Heel-Stride times within 30ms from raw IMU data.
+* Currently designing a real-time application to measure stride length and walking velocity of stroke victims using IMU data.
+* [Medrhythms](https://medrhythms.com/)
+
+**OP1** `2020-2021` 
+* Designed a complete IoT product within 6 months to monitor usage of orthotic/prothetic limbs 
+* Designed and produced a sticker-like wearable sensor that attaches to a prothetic limb and a clinical application
+* Wireless sensor (BLE) operates >6 months in the field using a single 240mAh coin-cell battery
+* Leveraged Flutter software to generate a mobile, tablet, and web application using a single set of source code
+* [OandP1](https://www.oandp1.com/)
+
+**Riddell Axiom Product** `2020-2021` 
+* Designed the protocol to network 150+ wireless devices over long-range (>100m) using the BLE 5.0 protocol.
+* [Axiom Helmet](https://content.riddell.com/axiom/)
+
+**Amulet Project** `2014-2019`
+[Amulet](https://amulet-project.org/)
+Research and Development of Computational Jewlery for Mobile Health Applications.  
+Thayer School of Engineering at Dartmouth College, Hanover, NH   
+* Applying advanced digital signal processing techniques to enable long-term physiological monitoring on ultra-low resource microcontrollers 
+* Developed first long-term physiological recording device using a single 64kB microcontroller
+* First to implement real-time compression of the electrodermal activity signal on an embedded system
+* Instrumentation Design Experience: optical heart rate monitor (PPG), electrodermal activity sensor (EDA), 2-lead ECG heart rate monitor
+
+**The ICE-MITT Project**
+Mobile Ice-Core Cooling System `Summer 2014`  
+Thayer School of Engineering at Dartmouth College, Hanover, NH 
+* Designed, constructed, and implemented a mobile, 1 kW thermoelectric cooling system for the `transportation of ice cores from Barrow, AK to Hanover, NH.
+* Developed cooling system was first to transport arctic sea ice at original temperatures.
+* https://engineering.dartmouth.edu/magazine/dartmouth-engineers-develop-new-device-for-climate-change-research/
+
+**Hypertherm Sustainability Project** `Sept. 2013 - March 2014`
+Thayer School of Engineering at Dartmouth College, Hanover, NH  
+21 Great Hollow Road, Hypertherm Inc., Lebanon, NH  
+* Worked in a team of 4 to assess the feasibility of a bio-fuel based commercial boiler to replace `a 2.2 MMBtu/hr diesel system.
+* Provided automated calculator for alternative commercial heating systems using sustainable fuels.
+* Presented findings and recommendations to board members (implemented: June 2015).
+* https://engineering.dartmouth.edu/cook/previous/energy-environment
 
 
 
-\section{\centerline{PUBLICATIONS}} 
-\vspace{8pt} % Gap between title and text
-%\begin{enumerate} \itemsep -2pt % Reduce space between items
-%	\item ``G. Pope, V. Mishra, S. Lewia, B. Lowens, D. Kotz, S. Lord, and
-%	R. Halter, “An ultra-low resource wearable eda sensor using wavelet
-%	compression,” in 2018 IEEE 15th International Conference on Wearable
-%	and Implantable Body Sensor Networks (BSN), March 2018, pp. 193–
-%	196" \\
-%	\item ``Varun Mishra, Gunnar Pope, Sarah Lord, Stephanie Lewia, Byron Lowens, Kelly Caine, Sougata Sen, Ryan Halter, and David Kotz. The Case for a Commodity Hardware Solution for Stress Detection. In Workshop on Mental Health: Sensing \& Intervention, pages 1717-1728, October 2018. ACM. DOI 10.1145/3267305.3267538"
-%\end{enumerate}
+## PUBLICATIONS 
+
+Pope, Gunnar Crimmin. An Ultra-Low Resource System for Electrodermal Activity Monitoring. Diss. Dartmouth College, `Jun 2019`.
+[PhD Thesis Link](https://www.proquest.com/openview/73a63f6dd61bfb2033187fca30068e51/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 
 G. Pope, V. Mishra, S. Lewia, B. Lowens, D. Kotz, S. Lord, and
-	R. Halter, ``An ultra-low resource wearable eda sensor using wavelet
-	compression'', 2018 IEEE 15th International Conference on Wearable
-	and Implantable Body Sensor Networks (BSN), March 2018, pp. 193–
-	196"
+R. Halter, “*An ultra-low resource wearable eda sensor using wavelet
+compression*,” in 2018 IEEE 15th International Conference on Wearable
+and Implantable Body Sensor Networks (BSN), `Mar 2018`
+
+Varun Mishra, Gunnar Pope, Sarah Lord, Stephanie Lewia, Byron Lowens, Kelly Caine, Sougata Sen, Ryan Halter, and David Kotz. *The Case for a Commodity Hardware Solution for Stress Detection.* In Workshop on Mental Health: Sensing & Intervention, pages 1717-1728, October 2018. ACM. DOI 10.1145/3267305.3267538 `Oct 2018`
+
+
 	
-Varun Mishra, Gunnar Pope, Sarah Lord, Stephanie Lewia, Byron Lowens, Kelly Caine, Sougata Sen, Ryan Halter, and David Kotz. ``The Case for a Commodity Hardware Solution for Stress Detection'', Workshop on Mental Health: Sensing \& Intervention, pages 1717-1728, October 2018. ACM. DOI 10.1145/3267305.3267538
+## PRESENTATIONS
+__An Ultra-Low Resource System for Electrodermal Activity Monitoring__ `Jun 2018`  
+G. Pope, Ph.D. Thesis Defense  
+Thayer School of Engineering at Dartmouth, Hanover, NH   
+
+__An Ultra-Low Resource System for Electrodermal Activity Monitoring__ `Jul 2018`   
+G. Pope, Ph.D. Thesis Proposal 
+Thayer School of Engineering at Dartmouth, Hanover, NH   
+
+__Designing Wearables for Behavioral Health Research: An Engineer's Perspective__ `Apr 2017`  
+<!-- April 11, 2017 -->
+Center for Behavior Health and Technologies, Lebanon, NH   
+
+__An Ultra-Low Resource Wearable EDA Sensor Using Wavelet Compression__ `Feb 2017`  
+<!-- February 2, 2017 -->
+Engineering in Medicine Lecture  
+Thayer School of Engineering at Dartmouth, Hanover, NH  
+
+__Challenges and Opportunities of Measuring Electrodermal Activity at the Wrist__ `Oct 2016`
+<!-- October 28, 2016 -->
+Engineering in Medicine Lecture  
+Thayer School of Engineering at Dartmouth, Hanover, NH  
 
 
-\section{\centerline{PRESENTATIONS}}
-\vspace{8pt} % Gap between title and text
-
-%\begin{enumerate}
-%	
-%	\item ``An Ultra-Low Resource System for Electrodermal Activity Monitoring'', G. Pope, Ph.D. Thesis Proposal, Thayer School of Engineering at Dartmouth, Hanover, NH July 23, 2018
-%		
-%	\item ``Designing Wearables for Behavioral Health Research: An Engineer's Perspective'', G. Pope, Center for Behavior Health and Technologies, Lebanon, NH, April 11, 2017.
-%		
-%	\item ``An Ultra-Low Resource Wearable EDA Sensor Using Wavelet Compression'', G. Pope, Engineering in Medicine Lecture, Thayer School of Engineering at Dartmouth, Hanover, NH, February 2, 2017.
-%	
-%	\item ``Challenges and Opportunities of Measuring Electrodermal Activity at the Wrist'', G. Pope, Engineering in Medicine Lecture, Thayer School of Engineering at Dartmouth, Hanover, NH, October 28, 2016.
-%	
-%	\item ``Designing wearable, biomedical sensors for continuous stress assessment—a systems level approach'', G. Pope, Engineering in Medicine Lecture, Thayer School of Engineering at Dartmouth, Hanover, NH, December 11, 2015.
-%	
-%
-%		
-% 
-%	
-%
-%	
-% 
-%%	(https://engineering.dartmouth.edu/events/phd-thesis-proposal-gunnar-c-pope)
-%	
-%\end{enumerate}
-
-``A Novel 'Quasi-Digital' Sensor for Measuring Skin Conductance and Susceptance Parameters for Mobile Healthcare Applications'', G. Pope, Engineering in Medicine Lecture, Thayer School of Engineering at Dartmouth, Hanover, NH, January 17, 2019.
-
-``An Ultra-Low Resource System for Electrodermal Activity Monitoring'', G. Pope, Ph.D. Thesis Proposal, Thayer School of Engineering at Dartmouth, Hanover, NH July 23, 2018
-
-``Designing Wearables for Behavioral Health Research: An Engineer's Perspective'', G. Pope, Center for Behavior Health and Technologies, Lebanon, NH, April 11, 2017.
-
-``An Ultra-Low Resource Wearable EDA Sensor Using Wavelet Compression'', G. Pope, Engineering in Medicine Lecture, Thayer School of Engineering at Dartmouth, Hanover, NH, February 2, 2017.
-
-``Challenges and Opportunities of Measuring Electrodermal Activity at the Wrist'', G. Pope, Engineering in Medicine Lecture, Thayer School of Engineering at Dartmouth, Hanover, NH, October 28, 2016.
-
-``Designing wearable, biomedical sensors for continuous stress assessment—a systems level approach'', G. Pope, Engineering in Medicine Lecture, Thayer School of Engineering at Dartmouth, Hanover, NH, December 11, 2015.
-
-
-\vspace{0.2in} % Some whitespace between sections
-
-\newpage
-
-\section{\centerline{PATENTS PENDING}}
-\vspace{15pt} 
-Halter, R.J., Pope, G.C., ``A micro-recording device for physiological signals", Application Number: 62722520, August 2018.
-
-R. Obbard, N. Afonina, R. Lieb-Lappen, G. Pope, ``Temperature gradient system and method", US Patent Application No. US20160178264A1, December 2015.
-
-\vspace{0.2in} % Some whitespace between sections
-
-
-\section{\centerline{MEDIA}}
-\vspace{15pt}
-
-EOS.IO Community Advocate and Developer.\\
-\tab Steemit: @powderskier - YouTube: @gunnarpope - LinkedIn: @gunnarpope
-%\tab Steemit: \@powderskier\\
-%\tab YouTube: @gunnarpope \\
-%\tab LinkedIn: @gunnarpope
-
-``Dartmouth Team First to Transport Arctic Sea Ice at Original Temperature" \\
-\tab A. Fiorentino, Dartmouth Engineer Magazine, April 2015.
-%https://engineering.dartmouth.edu/magazine/dartmouth-team-first-to-transport-arctic-sea-ice-at-original-temperature/
-
-``Dartmouth Engineers Develop New Device for Climate Change Research" \\
-\tab A. Fiorentino, Dartmouth Engineer Magazine, September 2014.
-
-%(https://engineering.dartmouth.edu/magazine/dartmouth-engineers-develop-new-device-for-climate-change-research)
+__Designing wearable, biomedical sensors for continuous stress assessment—a systems level approach__ `Dec 2015`
+<!-- Dec 11th 2015 -->
+Engineering in Medicine Lecture  
+Thayer School of Engineering at Dartmouth, Hanover, NH  
 
 
 
+## Media
+__Dartmouth Team First to Transport Arctic Sea Ice at Original Temperature__ `Apr 2015`
+A. Fiorentino, Dartmouth Engineer Magazine 
+[Link](https://engineering.dartmouth.edu/magazine/dartmouth-team-first-to-transport-arctic-sea-ice-at-original-temperature/)
 
-%\section{\centerline{GRANTS}}
-%\vspace{15pt}
-%
-%{\sl Computer and Network Systems}, National Science Foundation \hfill Oct. 2016 \\
-%\begin{tabular}{ccccc}
-%	& &Award Number:CNS-1619970 & Award Amount: \$815,840.00 
-%\end{tabular}
-%
-%{\sl Computer and Network Systems}, National Science Foundation \hfill Oct. 2014 \\
-%\begin{tabular}{ccccc}
-%	& &Award Number:CNS-1314281 & Award Amount: \$1,009,430.00 
-%\end{tabular}
+__Dartmouth Engineers Develop New Device for Climate Change Research__ `Sep 2014`
+A. Fiorentino, Dartmouth Engineer Magazine, 
+[Link](https://engineering.dartmouth.edu/magazine/dartmouth-engineers-develop-new-device-for-climate-change-research)
 
 
 
-%Award Number:1314281; Principal Investigator:David Kotz; Co-Principal Investigator:Ryan Halter, Andres Molina-Markham; Organization:Dartmouth College;NSF Organization:CNS Start Date:10/01/2013; Award Amount:\$1,009,430.00 \\
-%{\sl Computer and Network Systems} National Science Foundation \hfill Oct. 2016
-%\begin{align}{cc}
-%
-%Award Number:1619970 & Principal Investigator:David Kotz; Co-Principal Investigator:Sarah Lord, Ryan Halter; Organization:Dartmouth College;NSF Organization:CNS Start Date:10/01/2016; Award Amount:\$815,840.00;\\
-%\end{align}
+## VOLUNTEERING
+Mentor, EOS.IO Hackathon, San Fransisco, CA `Nov 2018`  
+Ski Patrol, Storres Hill, Lebanon, NH `Winter 17/18`  
+Ski Patrol, Storres Hill, Lebanon, NH `Winter 16/17`  
+Volunteer, Formula Hybrid, SAE Collegiate Competition `May 2015`  
+Volunteer, Formula Hybrid, SAE Collegiate Competition `May 2014`  
+Contest Judge, High School Science Fair, Windsor High School `Jan. 2014`  
+Contest Judge, FIRST Lego League `March 2014`  
+Volunteer, Formula Hybrid, SAE Collegiate Competition `May 2013`  
+Judge, FIRST Lego League `March 2013`  
 
-%\vspace{0.2in} % Some whitespace between sections
-%
-%\newpage 
+## Interests
+*Living Is Learning - Learning Is Living*
 
-\section{\centerline{VOLUNTEERING}}
-\vspace{15pt}
-{\sl Mentor}, EOS.IO Hackathon, San Fransisco, CA \hfill Nov. 2018\\
-{\sl Ski Patrol}, Storres Hill, Lebanon, NH \hfill Winter 17/18\\
-{\sl Ski Patrol}, Storres Hill, Lebanon, NH \hfill Winter 16/17\\
-{\sl Volunteer}, Formula Hybrid, SAE Collegiate Competition \hfill May 2015\\
-{\sl Volunteer}, Formula Hybrid, SAE Collegiate Competition \hfill May 2014\\
-{\sl Contest Judge}, High School Science Fair, Windsor High School \hfill Jan. 2014\\
-{\sl Contest Judge}, FIRST Lego League \hfill March 2014\\
-{\sl Volunteer}, Formula Hybrid, SAE Collegiate Competition \hfill May 2013\\
-{\sl Judge}, FIRST Lego League \hfill March 2013 \\
-\vspace{0.2in} % Some whitespace between sections
-%----------------------------------------------------------------------------------------
-%	MEMBERSHIPS SECTION
-%----------------------------------------------------------------------------------------
-
-%\section{\centerline{MEMBERSHIPS}} 
-%
-%\vspace{-5pt} % Reduce space between section title and contents
-%
-%\begin{center}
-%EOS.IO Stack Exchange \\
-%IEEE Member \\
-%National Ski Patrol\\
-%\end{center}
-
-%----------------------------------------------------------------------------------------
-
-%\vspace{0.2in} % Some whitespace between sections
-
-%----------------------------------------------------------------------------------------
-%	HONORS SECTION
-%----------------------------------------------------------------------------------------
-%---------------------------------------------------------------
-%	INTERESTS SECTION
-%----------------------------------------------------------------------------------------
-
-\section{\centerline{INTERESTS}}
-\vspace{15pt}
-%\centerline{\textit{Living Is Learning - Learning Is Living}}
-\centerline{\textit{Living is learning; learning is living.}}
-%\vspace{-5pt} % Reduce space between section title and contents
-
-User-centered digital design, blockchain technology, cryptography, distributed computing, Linux hardening and security, hacking, protocol development, digital automation, federated computing, mentoring, ski mountaineering, multi-pitch free climbing, water color painting.
-
-
-%----------------------------------------------------------------------------------------
-
-\end{resume} 
-\end{document}
-
-%{\bf The Amulet Project}, Computational Jewelry for Mobile Health \hfill Sept. 2014 - Present\\
-%\tab Thayer School of Engineering at Dartmouth College, Hanover, NH 
-%\begin{itemize}
-%	\item Current research focus on miniaturizing wearable biosensors by applying advanced digital signal processing techniques to enable long-term physiological monitoring on ultra-low resource microcontrollers with a main concentration in electrodermal activity (EDA) recording.
-%	\item Developed first long-term physiological recording device using a single 64kB microcontroller
-%	\item First to implement real-time compression of the electrodermal activity signal on an embedded system
-%	\item Instrumentation Design Experience: digital blood pressure cuff, optical heart rate monitor (PPG), electrodermal activity sensor (EDA), 2-lead ECG heart rate monitor
-%\end{itemize}
+Machine learning, automation, user-centered digital design, blockchain technology, distributed computing, Linux hardening and security, hacking, protocol development, mentoring, ski mountaineering, free climbing, surfing, guitar, piano, water-color painting.
 
 
