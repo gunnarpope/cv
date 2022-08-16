@@ -11,27 +11,26 @@ Leader in Mobile Health Technologies, Data Science, Algorithm Design
 | <a href="https://www.researchgate.net/profile/Gunnar-Pope">ResearchGate</a>
 </div>
 
-## Address
+## ADDRESS 
 PO Box 1
 Hanover, NH 03755
 
-## Currently
+## CURRENTLY 
 
 Lead Algorithm Engineer and Senior Product Development Engineer at Simbex. Designing and deploying wireless sensor technologies for health and wellness applications. Applications include real-time gait analysis, step detection, wearable compliance monitors, fall-detection algorithms. 
 
 <!-- ## Professional Objective -->
 
 
-## Specialized in
+## SPECIALIZATION 
 
- 
 Wearable Sensor Technologies, Physiological Sensing, Applied ML, IoT, Algorithm Design, Stress-Detection, Gait Analysis, Fall-Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Intrumentation Design, Medical Electronics, Test-Driven Design, Automation
 
-## Research interests
+## RESEARCH INTERESTS 
 
 Applied Machine Learning Applications for Health and Wellness Technologies, Stress Detection, Gait Analysis, Low-Power Sensor Design, Instrumentation Design, Algorithmic Trading 
 
-## Education
+## EDUCATION 
 
 __Dartmouth College, Hanover NH__ `2014-2019`    
 
@@ -61,43 +60,13 @@ __University of Colorado, Boulder CO__  `2001-2005`
 Major: Physical Geography  
 Minor: Atmospheric Science  
 
-## Programming Languages
-| C 
-| Python
-| Linux
-| Bash
-| Scikit-Learn
-| MATLAB
-| Altium
-
-
-
-## Professional Achievements
-**Patent Pending** `Aug 2018`   
-``A micro-recording device for physiological signals"   
-Inventors: Halter, R.J., Pope, G.C.  
-Application Number: US17/270,971  
-Publication number: [US20210251574A1](https://www.patentguru.com/US2021251574A1) 
-
-**Research Funding** `Oct 2016` 
-National Science Foundation, Computer and Network Systems  
-Award Number: CNS-1619970 -  Award Amount: \$815,840.00 - PI(s): Halter/Kotz  
-
-**Research Funding** `Oct 2014`  
-National Science Foundation, Computer and Network Systems   
-Award Number: CNS-1314281 & Award Amount: $1,009,430.00   
-Award Number: CNS-1314281 - Award Amount: \$1,009,430.00 - PI(s): Halter/Kotz  
-
-**Fundamentals of Engineering Exam** `May 2014` 
-National Council of Examiners for Engineering and Surveying, Concord, NH
-[Certification Link](https://account.ncees.org/rn/1515321-720566-7c580a4) 
-
 
 <!-- A list is also available [online](https://www.researchgate.net/profile/Gunnar-Pope) -->
 
-## Work Experience
-**Senior Product Development Engineer** `Jan 2020 - Present`
-Simbex LLC, Lebanon, NH  
+## PROFESSIONAL EXPERIENCE 
+**Simbex LLC**  
+Lebanon, NH  
+
 * Lead algorithm engineer of wearable technologies and physiological monitoring. 
 * Working with clients to translate their product vision into technical requirements and features.
 * Digital architect for real-time processing applications on resource-contstrained devices.
@@ -147,12 +116,95 @@ General Contracting, Whitefish, MT
 * Coordinated tradesman across multiple stages of the building process
 
 
+
+## PROGRAMMING LANGUAGES 
+__C__   
+12 yrs experienced in embedded C   
+Ultra-Low Power Embedded Applications   
+Embedded Machine Learning Applications  
+Data Compression  
+Wavelet Transformations  
+Kalman Filters  
+IIR, FIR Filters  
+Fast Fouier Transforms  
+Wireless Communication (BLE, Zigbee)  
+Real-Time Processing  
+Advanced Digital Signal Processing  
+Object-oriented programming in C  
+Injected Dependencies  
+Test-Driven Design via Unity Test Suite  
+Physiological Instumentation Design (GSR, PPG, ECG, BP)  
+Long-Range Wireless Applications BLE 5.0 (150m+)  
+Event-Driven Design  
+
+__Python__   
+7 years experience  
+Data Visualization (Matplotlib, Seaborn)  
+Algorithm Design  
+Machine Learning (Scikit-Learn, Keras)  
+Data Collection, ETL  
+Automation and Scripting  
+Package Management (pyenv)  
+Unit Testing (unittest)  
+Wrapping & Testing Applications Written in C
+Object-Oriented Programming  
+AWS Lambda Functions   
+
+
+__Linux__   
+7 years experience 
+Ubuntu Desktop  
+Ubuntu Server  
+Debian (RaspberryPi)
+
+__Bash__  
+12 years experience  
+Scripting and Automation   
+
+__Docker__    
+4 years experience  
+Containerizing Applications   
+Infastructure-as-Code   
+Modular Application Design   
+CI/CD  
+
+__MATLAB__  
+9 years experience  
+Data Processing   
+Data Visualization   
+Algorithm Design   
+
+__Altium__  
+3 years experience  
+Printed Circuit Board Design   
+
+## PROFESSINAL ACHIEVEMENTS 
+**Patent Pending** `Aug 2018`   
+``A micro-recording device for physiological signals"   
+Inventors: Halter, R.J., Pope, G.C.  
+Application Number: US17/270,971  
+Publication number: [US20210251574A1](https://www.patentguru.com/US2021251574A1) 
+
+**Research Funding** `Oct 2016` 
+National Science Foundation, Computer and Network Systems  
+Award Number: CNS-1619970 -  Award Amount: \$815,840.00 - PI(s): Halter/Kotz  
+
+**Research Funding** `Oct 2014`  
+National Science Foundation, Computer and Network Systems   
+Award Number: CNS-1314281 & Award Amount: $1,009,430.00   
+Award Number: CNS-1314281 - Award Amount: \$1,009,430.00 - PI(s): Halter/Kotz  
+
+**Fundamentals of Engineering Exam** `May 2014` 
+National Council of Examiners for Engineering and Surveying, Concord, NH
+[Certification Link](https://account.ncees.org/rn/1515321-720566-7c580a4) 
+
+
 <!-- ### Footer
 
 Last updated: July 2022 -->
 
 
-## Projects
+## PROJECTS 
 
 **Silvertree** `2021-present` 
 * Designed a Fall-Detection Algorithm for aging adults leveraging an embedded machine learning application within the an IMU (LSM6DSOX)  
@@ -205,16 +257,15 @@ Thayer School of Engineering at Dartmouth College, Hanover, NH
 
 ## PUBLICATIONS 
 
-Pope, Gunnar Crimmin. An Ultra-Low Resource System for Electrodermal Activity Monitoring. Diss. Dartmouth College, `Jun 2019`.
+Pope, Gunnar Crimmin. __An Ultra-Low Resource System for Electrodermal Activity Monitoring.__ Diss. Dartmouth College, `Jun 2019`.
 [PhD Thesis Link](https://www.proquest.com/openview/73a63f6dd61bfb2033187fca30068e51/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 
 G. Pope, V. Mishra, S. Lewia, B. Lowens, D. Kotz, S. Lord, and
-R. Halter, “*An ultra-low resource wearable eda sensor using wavelet
-compression*,” in 2018 IEEE 15th International Conference on Wearable
+R. Halter, __An ultra-low resource wearable eda sensor using wavelet compression__, in 2018 IEEE 15th International Conference on Wearable
 and Implantable Body Sensor Networks (BSN), `Mar 2018`
 
-Varun Mishra, Gunnar Pope, Sarah Lord, Stephanie Lewia, Byron Lowens, Kelly Caine, Sougata Sen, Ryan Halter, and David Kotz. *The Case for a Commodity Hardware Solution for Stress Detection.* In Workshop on Mental Health: Sensing & Intervention, pages 1717-1728, October 2018. ACM. DOI 10.1145/3267305.3267538 `Oct 2018`
+Varun Mishra, Gunnar Pope, Sarah Lord, Stephanie Lewia, Byron Lowens, Kelly Caine, Sougata Sen, Ryan Halter, and David Kotz. __The Case for a Commodity Hardware Solution for Stress Detection.__ In Workshop on Mental Health: Sensing & Intervention, pages 1717-1728, October 2018. ACM. DOI 10.1145/3267305.3267538 `Oct 2018`
 
 
 	
@@ -249,7 +300,7 @@ Thayer School of Engineering at Dartmouth, Hanover, NH
 
 
 
-## Media
+## MEDIA 
 __Dartmouth Team First to Transport Arctic Sea Ice at Original Temperature__ `Apr 2015`
 A. Fiorentino, Dartmouth Engineer Magazine 
 [Link](https://engineering.dartmouth.edu/magazine/dartmouth-team-first-to-transport-arctic-sea-ice-at-original-temperature/)
@@ -271,9 +322,9 @@ Contest Judge, FIRST Lego League `March 2014`
 Volunteer, Formula Hybrid, SAE Collegiate Competition `May 2013`  
 Judge, FIRST Lego League `March 2013`  
 
-## Interests
+## INTERESTS 
 *Living Is Learning - Learning Is Living*
 
-Machine learning, automation, user-centered digital design, blockchain technology, distributed computing, Linux hardening and security, hacking, protocol development, mentoring, ski mountaineering, free climbing, surfing, guitar, piano, water-color painting.
+Machine learning, automation, user-centered digital design, distributed computing, protocol development, blockchain technology, mentoring, ski mountaineering, free climbing, surfing, acoustic guitar, piano, water-color painting.
 
 
