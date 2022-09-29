@@ -64,7 +64,13 @@ Minor: Atmospheric Science
 <!-- A list is also available [online](https://www.researchgate.net/profile/Gunnar-Pope) -->
 
 ## PROFESSIONAL EXPERIENCE 
-**Simbex LLC**  
+**bitstory.ai**  `Sep 2022 - present`
+Hanover, NH
+
+* Founder & CEO of a data-software company for designing, deploying, and automating
+Machine Learning and Artificial Intelligence technologies.
+
+**Simbex LLC**  `Jan 2020 - Sep 2022`
 Lebanon, NH  
 
 * Lead algorithm engineer of wearable technologies and physiological monitoring. 
