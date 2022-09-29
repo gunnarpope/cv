@@ -6,7 +6,8 @@ title: Gunnar Pope's CV
 Leader in Mobile Health Technologies, Data Science, Algorithm Design
 
 <div id="webaddress">
-<a href="https://github.com/gunnarpope">GitHub</a>
+<a href="https://www.bitstory.ai">bitstory.ai</a>
+| <a href="https://github.com/gunnarpope">GitHub</a>
 | <a href="https://www.linkedin.com/in/gunnar-pope-2a64504a/">LinkedIn</a>
 | <a href="https://www.researchgate.net/profile/Gunnar-Pope">ResearchGate</a>
 </div>
@@ -17,7 +18,8 @@ Hanover, NH 03755
 
 ## CURRENTLY 
 
-Lead Algorithm Engineer and Senior Product Development Engineer at Simbex. Designing and deploying wireless sensor technologies for health and wellness applications. Applications include real-time gait analysis, step detection, wearable compliance monitors, fall-detection algorithms. 
+Founder & CEO of bitstory.ai - a data-software company for designing, deploying, and automating Machine Learning and Artificial Intelligence technologies.
+
 
 <!-- ## Professional Objective -->
 
