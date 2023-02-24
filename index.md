@@ -18,7 +18,7 @@ Hanover, NH 03755
 
 ## CURRENTLY 
 
-Founder & CEO of BitStory.AI - a data-software company for designing, deploying, and automating Machine Learning and Artificial Intelligence technologies.
+Founder & CEO of BitStory.AI - A data-software company for designing, deploying, and automating Machine Learning and Artificial Intelligence technologies.
 
 
 <!-- ## Professional Objective -->
@@ -70,8 +70,11 @@ Hanover, NH
 * Founder & CEO of a data-software company for applied Artificial Intelligence technologies
 * Specializing in applied AI/ML in embedded, cloud, and IoT applications
 * Deep expertise in ultra-low power (<100uW) embedded designs for wireless applications
+* Embedding ML algorithms within embedded IMUs (LSM6DSOX) for physiological monitoring and gait analysis
+* Developing microservice architectures based upon AWS Lambda, S3, and EC2 technologies
 * Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
-* Deploying Machine Learning applications (MLops) into the cloud and on embedded devices
+* Deploying Machine Learning applications (MLops) across Cloud and embedded devices
+* Expertise in high-bandwidth / low-resource applications for cyber-security applications
 
 **Simbex LLC**  `Jan 2020 - Sep 2022`
 Lebanon, NH  
@@ -82,7 +85,8 @@ Lebanon, NH
 * Leveraging machine learning (ML) algorithms to classify physiological behavior
 * Deploying Machine Learning applications (MLops) into the cloud and on embedded devices
 * Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
-* Full stack algorithm development using Python for algorithm development and then translating algorithm to embedded-C on a wearable, wirless device
+* Full stack algorithm development using Python for algorithm development
+* Translating algorithms from Python into embedded-C on a wearable, wirless device
 * Extensive background in low-power, wireless communication (BLE)
 
 **Blockchain Engineer at EOS Sweden** `Jun 2019 - Nov 2019`  
@@ -118,13 +122,11 @@ Energy Program Office at Dartmouth College, Hanover, NH
 * Constructed and tested efficient collection regimes for large-scale data sets.
 * Communicated results to team leader and presented recommendations at weekly meetings with colleagues.
 
-
 **Owner** `Sep 2006 -- May 2012`  
 Pope Custom Construction   
 General Contracting, Whitefish, MT  
 * Managed, supervised and constructed numerous multi-million dollar homes 
 * Coordinated tradesman across multiple stages of the building process
-
 
 
 ## PROGRAMMING LANGUAGES 
@@ -149,17 +151,16 @@ Event-Driven Design
 
 __Python__   
 7 years experience  
+Machine Learning (Scikit-Learn, Keras, Tensorflow, OpenCV)  
 Data Visualization (Matplotlib, Seaborn)  
-Algorithm Design  
-Machine Learning (Scikit-Learn, Keras)  
+Algorithm Design
 Data Collection, ETL  
 Automation and Scripting  
-Package Management (pyenv)  
+Package Management (pyenv, conda, pip)  
 Unit Testing (unittest)  
 Wrapping & Testing Applications Written in C
 Object-Oriented Programming  
 AWS Lambda Functions   
-
 
 __Linux__   
 7 years experience 
@@ -211,12 +212,16 @@ National Council of Examiners for Engineering and Surveying, Concord, NH
 
 <!-- ### Footer
 
-Last updated: July 2022 -->
+Last updated: Feb. 2023 -->
 
 
 ## PROJECTS 
 
-**Silvertree** `2021-present` 
+**Web Sensing** `2022-present`
+* Designed a lossless compression algorithm (>50%) for a grammar parser written in Bison for parsing high-speed internet traffic
+* R&D of a pushdown automata to implement a grammar parser (in C) on internet traffic at Gbps speeds
+
+**Silvertree** `2021-2022` 
 * Designed a Fall-Detection Algorithm for aging adults leveraging an embedded machine learning application within the an IMU (LSM6DSOX)  
 * Designed the experiemtal designs for algorithm development and verification
 * Leveraged wireless BLE communication using Nordic Semiconductor's BLE SoC (nRF52840)
