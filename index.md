@@ -6,7 +6,7 @@ title: Gunnar Pope's CV
 Leader in Mobile Health Technologies, Data Science, Algorithm Design
 
 <div id="webaddress">
-<a href="https://www.bitstory.ai">bitstory.ai</a>
+<a href="https://www.bitstory.ai">BitStory.AI</a>
 | <a href="https://github.com/gunnarpope">GitHub</a>
 | <a href="https://www.linkedin.com/in/gunnar-pope-2a64504a/">LinkedIn</a>
 | <a href="https://www.researchgate.net/profile/Gunnar-Pope">ResearchGate</a>
@@ -18,7 +18,7 @@ Hanover, NH 03755
 
 ## CURRENTLY 
 
-Founder & CEO of bitstory.ai - a data-software company for designing, deploying, and automating Machine Learning and Artificial Intelligence technologies.
+Founder & CEO of BitStory.AI - a data-software company for designing, deploying, and automating Machine Learning and Artificial Intelligence technologies.
 
 
 <!-- ## Professional Objective -->
@@ -44,8 +44,6 @@ Concentration in Biomedical and Electrical Engineering
 Advisor: Ryan J. Halter, Ph.D.  
 Relevant Coursework: Ultra-Low Power Embedded Systems; Advanced Digital Electronics and Signal Processing; Biomedical Instrumentation Design; Computer Engineering; Machine Learning
 
-
-
 __Dartmouth College, Hanover NH__ `2012-2014`    
 *Bachelor of Engineering*  
 Thayer School of Engineering, Hanover, NH   
@@ -66,37 +64,41 @@ Minor: Atmospheric Science
 <!-- A list is also available [online](https://www.researchgate.net/profile/Gunnar-Pope) -->
 
 ## PROFESSIONAL EXPERIENCE 
-**bitstory.ai**  `Sep 2022 - present`
+**BitStory.AI**  `Sep 2022 - present`
 Hanover, NH
 
-* Founder & CEO of a data-software company for designing, deploying, and automating
-Machine Learning and Artificial Intelligence technologies.
+* Founder & CEO of a data-software company for applied Artificial Intelligence technologies
+* Specializing in applied AI/ML in embedded, cloud, and IoT applications
+* Deep expertise in ultra-low power (<100uW) embedded designs for wireless applications
+* Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
+* Deploying Machine Learning applications (MLops) into the cloud and on embedded devices
 
 **Simbex LLC**  `Jan 2020 - Sep 2022`
 Lebanon, NH  
 
-* Lead algorithm engineer of wearable technologies and physiological monitoring. 
-* Working with clients to translate their product vision into technical requirements and features.
-* Digital architect for real-time processing applications on resource-contstrained devices.
-* Leveraging machine learning (ML) algorithms to classify physiological behavior.
+* Lead algorithm engineer of wearable technologies and physiological monitoring 
+* Working with clients to translate their product vision into technical requirements and features
+* Digital architect for real-time processing applications on resource-contstrained devices
+* Leveraging machine learning (ML) algorithms to classify physiological behavior
 * Deploying Machine Learning applications (MLops) into the cloud and on embedded devices
-* Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment.
-* Full stack algorithm development using Python for algorithm development and then translating algorithm to embedded-C on a wearable, wirless device. 
+* Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
+* Full stack algorithm development using Python for algorithm development and then translating algorithm to embedded-C on a wearable, wirless device
 * Extensive background in low-power, wireless communication (BLE)
 
 **Blockchain Engineer at EOS Sweden** `Jun 2019 - Nov 2019`  
 Stockholm, Sweden (Remote Work)
-* On-line collaboration to develop a global payment system based on EOS.IO blockchain software. 
+* On-line collaboration to develop a global payment system based on EOS.IO blockchain software 
 * Applied Cryptography and Big Data Analytics
 * https://eossweden.org
 
 **Ph.D. Candidate and Researcher** `Sep. 2014 - June 2019`   
 Thayer School of Engineering at Dartmouth College, Hanover, NH  
-* Collaborating with Dartmouth's Computer Science Department, Clemson University, and the Center of Technology and Behavior Health to translate digital health technologies into real-world applications.
-* Developing analog and quasi-digital instrumentation for ultra-low power biomedical sensors.
-* Specializing in digital signal processing on low-resource embedded devices.
-* Applying full-stack computer engineering methods to measure, record, visualize, and analyze biomedical data.
-* Characterizing of sensor performance using statistical analysis.  
+* Collaborating with Dartmouth's Computer Science Department and the Center of Technology and Behavior Health 
+to translate digital health technologies into real-world applications
+* Developing analog and quasi-digital instrumentation for ultra-low power biomedical sensors
+* Specializing in digital signal processing on low-resource embedded devices
+* Applying full-stack computer engineering methods to measure, record, visualize, and analyze biomedical data
+* Characterizing of sensor performance using statistical analysis  
 
 **Quasi-Digital Sensor Design**  `Jun 2019` 
 Low-Resource EDA Sensor Fabrication  
