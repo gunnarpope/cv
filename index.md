@@ -18,7 +18,7 @@ Hanover, NH 03755
 
 ## CURRENTLY 
 
-Founder & CEO of BitStory.AI - A data-software company for designing, deploying, and automating Machine Learning and Artificial Intelligence technologies.
+__Founder & CEO of BitStory.AI__ - A data-software company for designing, deploying, and automating Machine Learning and Artificial Intelligence technologies.
 
 
 <!-- ## Professional Objective -->
