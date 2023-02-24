@@ -2,7 +2,7 @@
 layout: cv
 title: Gunnar Pope's CV
 ---
-# Gunnar Pope, PhD 
+# Gunnar Pope, PhD  
 Leader in Mobile Health Technologies, Data Science, Algorithm Design
 
 <div id="webaddress">
