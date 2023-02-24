@@ -217,31 +217,33 @@ Last updated: Feb. 2023 -->
 
 ## PROJECTS 
 
-**Web Sensing** `2022-present`
+**Web Sensing: High-Speed Grammar Parser** `2022-present`
 * Designed a lossless compression algorithm (>50%) for a grammar parser written in Bison for parsing high-speed internet traffic
 * R&D of a pushdown automata to implement a grammar parser (in C) on internet traffic at Gbps speeds
 
-**Silvertree** `2021-2022` 
-* Designed a Fall-Detection Algorithm for aging adults leveraging an embedded machine learning application within the an IMU (LSM6DSOX)  
+**Silvertree: Fall Detection Sensor** `2021-2022` 
+* Lead Algorithm Engineer: Fall-Detection Algorithm for aging adults leveraging an embedded machine learning application within the an IMU (LSM6DSOX)  
 * Designed the experiemtal designs for algorithm development and verification
 * Leveraged wireless BLE communication using Nordic Semiconductor's BLE SoC (nRF52840)
 * Embedded ML algorithm withing STmicro's LSM6DSOX for ultra low-power operation
 * [Silvertree](https://silvertree.io/)
 
-**Medrhythms** `2021-present` 
-* Designed a real-time gait cycle time analyzer measuring Toe-Off and Heel-Stride times within 30ms from raw IMU data.
-* Currently designing a real-time application to measure stride length and walking velocity of stroke victims using IMU data.
+**Medrhythms: Embedded Gait Analyzer** `2021-2022` 
+* Lead Algorithm Engineer: Designed a real-time gait cycle time analyzer 
+* Gait detection algorithm measures time of Toe-Off and Heel-Stride events from raw IMU data with <30ms error.
+* Ported gait analysis algorithm from Python into embedded C on a wireless BLE (nRF52840) chip
 * [Medrhythms](https://medrhythms.com/)
 
-**OP1** `2020-2021` 
+**OPOS1 Compliance Monitor** `2020-2021` 
 * Designed a complete IoT product within 6 months to monitor usage of orthotic/prothetic limbs 
 * Designed and produced a sticker-like wearable sensor that attaches to a prothetic limb and a clinical application
 * Wireless sensor (BLE) operates >6 months in the field using a single 240mAh coin-cell battery
 * Leveraged Flutter software to generate a mobile, tablet, and web application using a single set of source code
-* [OandP1](https://www.oandp1.com/)
+* [OandP1](https://www.opos1.com)
 
 **Riddell Axiom Product** `2020-2021` 
-* Designed the protocol to network 150+ wireless devices over long-range (>100m) using the BLE 5.0 protocol.
+* Designed the protocol to network 150+ wireless devices over long-range (>100m) using the BLE 5.0 protocol
+* Impelmented a Cloud-based microservice used to calibrate the Axiom sensors remotely from 3 different manufacturing facilities
 * [Axiom Helmet](https://content.riddell.com/axiom/)
 
 **Amulet Project** `2014-2019`
