@@ -3,7 +3,7 @@ layout: cv
 title: Gunnar Pope's CV
 ---
 # Gunnar Pope, PhD  
-Leader in Mobile Health Technologies, Data Science, Algorithm Design
+Leveraging Data for Decarbonization, Risk Mitigation, and Health
 
 <div id="webaddress">
 <a href="https://www.bitstory.ai">BitStory.AI</a>
@@ -26,7 +26,7 @@ __Founder & CEO of BitStory.AI__ - A data-software company for designing, deploy
 
 ## SPECIALIZATION 
 
-Wearable Sensor Technologies, Physiological Sensing, Applied ML, IoT, Algorithm Design, Stress-Detection, Gait Analysis, Fall-Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Intrumentation Design, Medical Electronics, Test-Driven Design, Automation
+Wearable Sensor Technologies, Physiological Sensing, Applied ML, IoT, Algorithm Design, Stress-Detection, Gait Analysis, Fall-Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Intrumentation Design, Medical Electronics, Test-Driven Design, Automation, Energy Market Forecasting, Meteorology, Climatology
 
 ## RESEARCH INTERESTS 
 
@@ -130,6 +130,22 @@ General Contracting, Whitefish, MT
 
 
 ## PROGRAMMING LANGUAGES 
+__Python__   
+7 years experience  
+Machine Learning (Scikit-Learn, PyTorch, Keras, Tensorflow, OpenCV)  
+Data Visualization (Matplotlib, Seaborn)  
+Algorithm Design
+Data Collection, ETL  
+Automation and Scripting  
+Package Management (pyenv, conda, pip)  
+Unit Testing (unittest)  
+Wrapping & Testing Applications Written in C
+Object-Oriented Programming  
+
+__AWS Cloud Computing__
+4 years experience
+AWS Serverless (Lambda, S3, CloudFormation, ElasticBeanstalk) 
+
 __C__   
 12 yrs experienced in embedded C   
 Ultra-Low Power Embedded Applications   
@@ -148,19 +164,6 @@ Test-Driven Design via Unity Test Suite
 Physiological Instumentation Design (GSR, PPG, ECG, BP)  
 Long-Range Wireless Applications BLE 5.0 (150m+)  
 Event-Driven Design  
-
-__Python__   
-7 years experience  
-Machine Learning (Scikit-Learn, Keras, Tensorflow, OpenCV)  
-Data Visualization (Matplotlib, Seaborn)  
-Algorithm Design
-Data Collection, ETL  
-Automation and Scripting  
-Package Management (pyenv, conda, pip)  
-Unit Testing (unittest)  
-Wrapping & Testing Applications Written in C
-Object-Oriented Programming  
-AWS Lambda Functions   
 
 __Linux__   
 7 years experience 
@@ -217,7 +220,22 @@ Last updated: Feb. 2023 -->
 
 ## PROJECTS 
 
-**Web Sensing: High-Speed Grammar Parser** `2022-present`
+**BitStory.AI** '2022-present'
+* Providing advanced energy market forecasts to bolster renewable energy success and reduce carbon emissions
+* Leveraging a variety of ML/AI tools for energy price and load forecasting (RNNs, CNNs, Gaussian Processes)
+* Leveraging reinforcement learning techniques to adapt real-time renewable asset controls with dynamic market conditions
+* Developed an API interface to query historical data and provide advanced market analytics
+
+**Net Load Forecasting Competition** 'April 2023 - July 2023'
+* Day-ahead forecasting competition of net electrical load at 4 different locations with high renewable (solar) generation.
+* Final ranking was 13th out of 93 for a 1-person team (competing against commercial forecasters and universities with 4+ team members)
+* Utilized a variety of ML/AI technologies for probabilistic forecasting models based upon RNNs, CNNs, and Gaussian Processes
+* Automated submission of daily probabilistic forecasting models to remote client 
+* Leveraged serverless API framework to gather global, national, and regional meteorological and climatological data
+* Developed automated ETL pipelines for weather and energy data to forecast net load
+
+ 
+**Web Sensing: High-Speed Grammar Parser** `2022-2023`
 * Designed a lossless compression algorithm (>50%) for a grammar parser written in Bison for parsing high-speed internet traffic
 * R&D of a pushdown automata to implement a grammar parser (in C) on internet traffic at Gbps speeds
 
@@ -273,6 +291,11 @@ Thayer School of Engineering at Dartmouth College, Hanover, NH
 
 
 ## PUBLICATIONS 
+
+Taylor, S, Pope, Gunnar. __Hardware Sequence Combinators__. ICCWS24 (Pending Publication)  
+
+Mishra, Varun & Pope, Gunnar & Lord, Sarah & Lewia, Stephanie & Lowens, Byron & Caine, Kelly & Sen, Sougata & Halter, Ryan & Kotz, David. (2020). __Continuous Detection of Physiological Stress with Commodity Hardware__. ACM Transactions on Computing for Healthcare. 1. 1-30. 10.1145/3361562. 
+
 
 Pope, Gunnar Crimmin. __An Ultra-Low Resource System for Electrodermal Activity Monitoring.__ Diss. Dartmouth College, `Jun 2019`.
 [PhD Thesis Link](https://www.proquest.com/openview/73a63f6dd61bfb2033187fca30068e51/1?pq-origsite=gscholar&cbl=18750&diss=y)
