@@ -225,7 +225,7 @@ Last updated: Feb. 2023 -->
 * Leveraging reinforcement learning techniques to adapt real-time renewable asset controls with dynamic market conditions
 * Developed an API interface to query historical data and provide advanced market analytics
 
-**Net Load Forecasting Competition** `April 2023 - July 2023`
+**Net Load Forecasting Competition** `Jul 2023`
 * Day-ahead forecasting competition of net electrical load at 4 different locations with high renewable (solar) generation.
 * Final ranking was 13th out of 93 for a 1-person team (competing against commercial forecasters and universities with 4+ team members)
 * Utilized a variety of ML/AI technologies for probabilistic forecasting models based upon RNNs, CNNs, and Gaussian Processes
