@@ -18,7 +18,7 @@ Hanover, NH 03755
 
 ## CURRENTLY 
 
-__Founder & CEO of BitStory.AI__ - A data-software company for designing, deploying, and automating Machine Learning and Artificial Intelligence technologies.
+__Founder & CEO of BitStory.AI__ - Leveraging Data To Decarbonize The Planet. Energy Market Forecasting and Dispatch Software to Maximize ROI and Minimize Carbon Emissions for Renewable Energy Systems. 
 
 
 <!-- ## Professional Objective -->
@@ -26,11 +26,11 @@ __Founder & CEO of BitStory.AI__ - A data-software company for designing, deploy
 
 ## SPECIALIZATION 
 
-Wearable Sensor Technologies, Physiological Sensing, Applied ML, IoT, Algorithm Design, Stress-Detection, Gait Analysis, Fall-Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Intrumentation Design, Medical Electronics, Test-Driven Design, Automation, Energy Market Forecasting, Meteorology, Climatology
+Energy Market Forecasting, Data Science, Applied ML, IoT, Algorithm Design, Wearable Sensor Technologies, Physiological Sensing, Stress-Detection, Gait Analysis, Fall-Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Intrumentation Design, Medical Electronics, Test-Driven Design, Automation
 
 ## RESEARCH INTERESTS 
 
-Applied Machine Learning Applications for Health and Wellness Technologies, Stress Detection, Gait Analysis, Low-Power Sensor Design, Instrumentation Design, Algorithmic Trading 
+Forecasting Distributed Energy Resources (DERs), Probabilistic Forecasting using Neural Networks, Applied Machine Learning Applications for Health and Wellness Technologies, Stress Detection, Gait Analysis, Low-Power Sensor Design, Instrumentation Design, Algorithmic Trading 
 
 ## EDUCATION 
 
@@ -69,12 +69,11 @@ Hanover, NH
 
 * Founder & CEO of a data-software company for applied Artificial Intelligence technologies
 * Specializing in applied AI/ML in embedded, cloud, and IoT applications
-* Deep expertise in ultra-low power (<100uW) embedded designs for wireless applications
-* Embedding ML algorithms within embedded IMUs (LSM6DSOX) for physiological monitoring and gait analysis
 * Developing microservice architectures based upon AWS Lambda, S3, and EC2 technologies
 * Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
-* Deploying Machine Learning applications (MLops) across Cloud and embedded devices
-* Expertise in high-bandwidth / low-resource applications for cyber-security applications
+* Expertise in high-bandwidth / low-resource applications for applications in healthcare, cyber-security, and edge computing
+* Deep expertise in ultra-low power (<100uW) embedded designs for wireless applications
+* Embedding ML algorithms within embedded IMUs (LSM6DSOX) for physiological monitoring and gait analysis
 
 **Simbex LLC**  `Jan 2020 - Sep 2022`
 Lebanon, NH  
@@ -142,8 +141,8 @@ Unit Testing (unittest)
 Wrapping & Testing Applications Written in C
 Object-Oriented Programming  
 
-__AWS Cloud Computing__
-4 years experience
+__AWS Cloud Computing__  
+4 years experience  
 AWS Serverless (Lambda, S3, CloudFormation, ElasticBeanstalk) 
 
 __C__   
