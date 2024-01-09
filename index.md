@@ -219,20 +219,19 @@ Last updated: Feb. 2023 -->
 
 ## PROJECTS 
 
-**BitStory.AI** '2022-present'
+**BitStory.AI** `2022-present`
 * Providing advanced energy market forecasts to bolster renewable energy success and reduce carbon emissions
 * Leveraging a variety of ML/AI tools for energy price and load forecasting (RNNs, CNNs, Gaussian Processes)
 * Leveraging reinforcement learning techniques to adapt real-time renewable asset controls with dynamic market conditions
 * Developed an API interface to query historical data and provide advanced market analytics
 
-**Net Load Forecasting Competition** 'April 2023 - July 2023'
+**Net Load Forecasting Competition** `April 2023 - July 2023`
 * Day-ahead forecasting competition of net electrical load at 4 different locations with high renewable (solar) generation.
 * Final ranking was 13th out of 93 for a 1-person team (competing against commercial forecasters and universities with 4+ team members)
 * Utilized a variety of ML/AI technologies for probabilistic forecasting models based upon RNNs, CNNs, and Gaussian Processes
 * Automated submission of daily probabilistic forecasting models to remote client 
 * Leveraged serverless API framework to gather global, national, and regional meteorological and climatological data
 * Developed automated ETL pipelines for weather and energy data to forecast net load
-
  
 **Web Sensing: High-Speed Grammar Parser** `2022-2023`
 * Designed a lossless compression algorithm (>50%) for a grammar parser written in Bison for parsing high-speed internet traffic
