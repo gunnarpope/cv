@@ -133,7 +133,7 @@ General Contracting, Whitefish, MT
 __Python__   
 7 years experience  
 Machine Learning (Scikit-Learn, PyTorch, Keras, Tensorflow, OpenCV)  
-Data Visualization (Matplotlib, Seaborn)  
+Data Visualization (Matplotlib, Seaborn, Plotly)  
 Algorithm Design
 Data Collection, ETL  
 Automation and Scripting  
@@ -141,6 +141,9 @@ Package Management (pyenv, conda, pip)
 Unit Testing (unittest)  
 Wrapping & Testing Applications Written in C
 Object-Oriented Programming  
+AWS Serverless
+AWS Lambda
+AWS ElasticBeanstalk
 
 __AWS Cloud Computing__  
 4 years experience  
