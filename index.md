@@ -90,7 +90,7 @@ Lebanon, NH
 * Translating algorithms from Python into embedded-C on a wearable, wirless device
 * Extensive background in low-power, wireless communication (BLE)
 
-**Blockchain Engineer as Independent Contractor** `Jun 2019 - Nov 2019`  
+**Blockchain Engineer (Independent Contractor)** `Jun 2019 - Nov 2019`  
 Stockholm, Sweden (Remote Work)
 * On-line collaboration to develop a global payment system based on EOS.IO blockchain software 
 * Applied Cryptography and Big Data Analytics
