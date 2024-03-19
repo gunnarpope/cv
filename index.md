@@ -3,7 +3,7 @@ layout: cv
 title: Gunnar Pope's CV
 ---
 # Gunnar Pope, PhD  
-Leveraging Data for Decarbonization, Risk Mitigation, and Health
+Leveraging Data for Decarbonization, Risk Mitigation, Health and Wellness
 
 <div id="webaddress">
 <a href="https://www.bitstory.ai">BitStory.AI</a>
@@ -350,6 +350,7 @@ A. Fiorentino, Dartmouth Engineer Magazine,
 
 
 ## VOLUNTEERING
+XC Ski Coach for Ford Sayre, Hanover, NH `Winter 2024`
 Mentor, EOS.IO Hackathon, San Fransisco, CA `Nov 2018`  
 Ski Patrol, Storres Hill, Lebanon, NH `Winter 17/18`  
 Ski Patrol, Storres Hill, Lebanon, NH `Winter 16/17`  
@@ -361,8 +362,8 @@ Volunteer, Formula Hybrid, SAE Collegiate Competition `May 2013`
 Judge, FIRST Lego League `March 2013`  
 
 ## INTERESTS 
-*Living Is Learning - Learning Is Living*
+*Living Is Learning ~ Learning Is Living*
 
-Machine learning, automation, user-centered digital design, distributed computing, protocol development, blockchain technology, mentoring, ski mountaineering, free climbing, surfing, acoustic guitar, piano, water-color painting.
+Applied Machine learning and AI, automation, cloud computing, low-power design, signal compression, mentoring, ski mountaineering, free climbing, surfing, acoustic guitar, piano, water-color painting.
 
 
