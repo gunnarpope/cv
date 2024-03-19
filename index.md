@@ -18,7 +18,7 @@ Hanover, NH 03755
 
 ## CURRENTLY 
 
-__Founder & CEO of BitStory.AI__ - Leveraging Data To Decarbonize The Planet. Energy Market Forecasting and Dispatch Software to Maximize ROI and Minimize Carbon Emissions for Renewable Energy Systems. 
+__Founder & CEO of BitStory.AI__ - Leveraging Data To Decarbonize The Planet. Energy Market Forecasting and Dispatch Software to Maximize ROI and Minimize Carbon Emissions for Renewable Energy Systems. We specialize in time-series forecasting software to reduce financial risk and emissions.   
 
 
 <!-- ## Professional Objective -->
@@ -26,7 +26,7 @@ __Founder & CEO of BitStory.AI__ - Leveraging Data To Decarbonize The Planet. En
 
 ## SPECIALIZATION 
 
-Energy Market Forecasting, Data Science, Applied ML, IoT, Algorithm Design, Wearable Sensor Technologies, Physiological Sensing, Stress-Detection, Gait Analysis, Fall-Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Intrumentation Design, Medical Electronics, Test-Driven Design, Automation
+Energy Market Forecasting, Data Science, MLops, IoT, Algorithm Design, Wearable Sensor Technologies, Physiological Sensing, Stress-Detection, Gait Analysis, Fall-Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Instrumentation Design, Medical Electronics, Test-Driven Design, Automation
 
 ## RESEARCH INTERESTS 
 
@@ -67,7 +67,9 @@ Minor: Atmospheric Science
 **BitStory.AI**  `Sep 2022 - present`
 Hanover, NH
 
-* Founder & CEO of a data-software company for applied Artificial Intelligence technologies
+* Founder & CEO of BitStory.AI - Leveraging Data To Decarbonize The Planet. Energy Market Forecasting and Dispatch Software to Maximize ROI and Minimize Carbon Emissions for Renewable Energy Systems. We specialize in time-series forecasting software to reduce financial risk and emissions.   
+* Deep expertise in ultra-low power (<100uW) embedded designs for wireless applications
+* Specializing in inference and forecasting of real-time signals. 
 * Specializing in applied AI/ML in embedded, cloud, and IoT applications
 * Developing microservice architectures based upon AWS Lambda, S3, and EC2 technologies
 * Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
@@ -80,7 +82,7 @@ Lebanon, NH
 
 * Lead algorithm engineer of wearable technologies and physiological monitoring 
 * Working with clients to translate their product vision into technical requirements and features
-* Digital architect for real-time processing applications on resource-contstrained devices
+* Digital architect for real-time processing applications on resource-constrained devices
 * Leveraging machine learning (ML) algorithms to classify physiological behavior
 * Deploying Machine Learning applications (MLops) into the cloud and on embedded devices
 * Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
@@ -88,11 +90,10 @@ Lebanon, NH
 * Translating algorithms from Python into embedded-C on a wearable, wirless device
 * Extensive background in low-power, wireless communication (BLE)
 
-**Blockchain Engineer at EOS Sweden** `Jun 2019 - Nov 2019`  
+**Blockchain Engineer as Independent Contractor** `Jun 2019 - Nov 2019`  
 Stockholm, Sweden (Remote Work)
 * On-line collaboration to develop a global payment system based on EOS.IO blockchain software 
 * Applied Cryptography and Big Data Analytics
-* https://eossweden.org
 
 **Ph.D. Candidate and Researcher** `Sep. 2014 - June 2019`   
 Thayer School of Engineering at Dartmouth College, Hanover, NH  
@@ -160,7 +161,7 @@ Advanced Digital Signal Processing
 Object-oriented programming in C  
 Injected Dependencies  
 Test-Driven Design via Unity Test Suite  
-Physiological Instumentation Design (GSR, PPG, ECG, BP)  
+Physiological Instrumentation Design (GSR, PPG, ECG, BP)  
 Long-Range Wireless Applications BLE 5.0 (150m+)  
 Event-Driven Design  
 
@@ -177,7 +178,7 @@ Scripting and Automation
 __Docker__    
 4 years experience  
 Containerizing Applications   
-Infastructure-as-Code   
+Infrastructure-as-Code   
 Modular Application Design   
 CI/CD  
 
@@ -191,7 +192,7 @@ __Altium__
 3 years experience  
 Printed Circuit Board Design   
 
-## PROFESSINAL ACHIEVEMENTS 
+## PROFESSIONAL ACHIEVEMENTS 
 **Patent Pending** `Aug 2018`   
 ``A micro-recording device for physiological signals"   
 Inventors: Halter, R.J., Pope, G.C.  
@@ -290,7 +291,7 @@ Thayer School of Engineering at Dartmouth College, Hanover, NH
 
 ## PUBLICATIONS 
 
-Taylor, S, Pope, Gunnar. __Hardware Sequence Combinators__. ICCWS24 (Pending Publication)  
+Taylor, S, Pope, Gunnar. __Hardware Sequence Combinators__. ICCWS24 (Pending Publication 2024).
 
 Mishra, Varun & Pope, Gunnar & Lord, Sarah & Lewia, Stephanie & Lowens, Byron & Caine, Kelly & Sen, Sougata & Halter, Ryan & Kotz, David. (2020). __Continuous Detection of Physiological Stress with Commodity Hardware__. ACM Transactions on Computing for Healthcare. 1. 1-30. 10.1145/3361562. 
 
