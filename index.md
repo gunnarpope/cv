@@ -18,7 +18,7 @@ Hanover, NH 03755
 
 ## CURRENTLY 
 
-__Founder & CEO of BitStory.AI__ - Leveraging Data To Decarbonize The Planet. Energy Market Forecasting and Dispatch Software to Maximize ROI and Minimize Carbon Emissions for Renewable Energy Systems. We specialize in time-series forecasting software to reduce financial risk and emissions.   
+__Founder & CEO of BitStory.AI__ - Leveraging data to decarbonize the planet. Energy market forecasting and dispatch software to minimize financial risk and carbon emissions for renewable energy systems. We specialize in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty. 
 
 
 <!-- ## Professional Objective -->
@@ -28,7 +28,7 @@ __Founder & CEO of BitStory.AI__ - Leveraging Data To Decarbonize The Planet. En
 
 Energy Market Forecasting, Data Science, MLops, IoT, Algorithm Design, Wearable Sensor Technologies, Physiological Sensing, Stress-Detection, Gait Analysis, Fall-Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Instrumentation Design, Medical Electronics, Test-Driven Design, Automation
 
-## RESEARCH INTERESTS 
+## RESEARCH INTERESTS
 
 Forecasting Distributed Energy Resources (DERs), Probabilistic Forecasting using Neural Networks, Applied Machine Learning Applications for Health and Wellness Technologies, Stress Detection, Gait Analysis, Low-Power Sensor Design, Instrumentation Design, Algorithmic Trading 
 
@@ -67,11 +67,11 @@ Minor: Atmospheric Science
 **BitStory.AI**  `Sep 2022 - present`
 Hanover, NH
 
-* Founder & CEO of BitStory.AI - Leveraging Data To Decarbonize The Planet. Energy Market Forecasting and Dispatch Software to Maximize ROI and Minimize Carbon Emissions for Renewable Energy Systems. We specialize in time-series forecasting software to reduce financial risk and emissions.   
-* Deep expertise in ultra-low power (<100uW) embedded designs for wireless applications
-* Specializing in inference and forecasting of real-time signals. 
-* Specializing in applied AI/ML in embedded, cloud, and IoT applications
-* Developing microservice architectures based upon AWS Lambda, S3, and EC2 technologies
+* Founder & CEO of BitStory.AI - Leveraging data to decarbonize the planet. Energy market forecasting and dispatch software to minimize financial risk and carbon emissions for renewable energy systems. We specialize in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty. 
+* Specializing in time-series forecasting and modeling under risk and uncertainty
+* Full-stack experience of applied AI/ML technologies across embedded, cloud, and IoT applications
+* Deep expertise in discrete and probabilistic systems
+* Currently developing microservice architectures based upon AWS Lambda, S3, and EC2 technologies
 * Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
 * Expertise in high-bandwidth / low-resource applications for applications in healthcare, cyber-security, and edge computing
 * Deep expertise in ultra-low power (<100uW) embedded designs for wireless applications
@@ -80,19 +80,20 @@ Hanover, NH
 **Simbex LLC**  `Jan 2020 - Sep 2022`
 Lebanon, NH  
 
-* Lead algorithm engineer of wearable technologies and physiological monitoring 
+* Lead Engineer designing wearable biosensors for physiological monitoring 
 * Working with clients to translate their product vision into technical requirements and features
+* Leading hypothesis-driven testing for product performance evaluation and QC 
 * Digital architect for real-time processing applications on resource-constrained devices
 * Leveraging machine learning (ML) algorithms to classify physiological behavior
 * Deploying Machine Learning applications (MLops) into the cloud and on embedded devices
 * Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
 * Full stack algorithm development using Python for algorithm development
-* Translating algorithms from Python into embedded-C on a wearable, wirless device
+* Translating algorithms from Python into embedded-C on a wearable, wireless device
 * Extensive background in low-power, wireless communication (BLE)
 
 **Blockchain Engineer (Independent Contractor)** `Jun 2019 - Nov 2019`  
 Stockholm, Sweden (Remote Work)
-* On-line collaboration to develop a global payment system based on EOS.IO blockchain software 
+* On-line collaboration to developing low-latency blockchain software for smart applications 
 * Applied Cryptography and Big Data Analytics
 
 **Ph.D. Candidate and Researcher** `Sep. 2014 - June 2019`   
@@ -133,6 +134,7 @@ General Contracting, Whitefish, MT
 __Python__   
 7 years experience  
 Machine Learning (Scikit-Learn, PyTorch, Keras, Tensorflow, OpenCV)  
+Probabilistic Programming (pymc, Tensorflow Probability)
 Data Visualization (Matplotlib, Seaborn, Plotly)  
 Algorithm Design
 Data Collection, ETL  
@@ -157,7 +159,7 @@ Data Compression
 Wavelet Transformations  
 Kalman Filters  
 IIR, FIR Filters  
-Fast Fouier Transforms  
+Fast Fourier Transforms  
 Wireless Communication (BLE, Zigbee)  
 Real-Time Processing  
 Advanced Digital Signal Processing  
@@ -225,12 +227,12 @@ Last updated: Feb. 2023 -->
 
 **BitStory.AI** `2022-present`
 * Providing advanced energy market forecasts to bolster renewable energy success and reduce carbon emissions
-* Leveraging a variety of ML/AI tools for energy price and load forecasting (RNNs, CNNs, Gaussian Processes)
+* Leveraging a variety of ML/AI tools for energy price and load forecasting (DNNs, Quantile Regression, Gradient Boosting, RNNs, CNNs, Gaussian Processes)
 * Leveraging reinforcement learning techniques to adapt real-time renewable asset controls with dynamic market conditions
 * Developed an API interface to query historical data and provide advanced market analytics
 
 **Net Load Forecasting Competition** `Jul 2023`
-* Day-ahead forecasting competition of net electrical load at 4 different locations with high renewable (solar) generation.
+* Day-ahead forecasting competition of net electrical load at 4 different locations for 30 days with high renewable (solar) generation.
 * Final ranking was 13th out of 93 for a 1-person team (competing against commercial forecasters and universities with 4+ team members)
 * Utilized a variety of ML/AI technologies for probabilistic forecasting models based upon RNNs, CNNs, and Gaussian Processes
 * Automated submission of daily probabilistic forecasting models to remote client 
@@ -238,25 +240,28 @@ Last updated: Feb. 2023 -->
 * Developed automated ETL pipelines for weather and energy data to forecast net load
  
 **Web Sensing: High-Speed Grammar Parser** `2022-2023`
-* Designed a lossless compression algorithm (>50%) for a grammar parser written in Bison for parsing high-speed internet traffic
-* R&D of a pushdown automata to implement a grammar parser (in C) on internet traffic at Gbps speeds
+* Designed a "Sequence Combinator" (i.e., lossless compression algorithm for sequence-based data) for a Push-Down Automata used to parse an LALR grammar written in Bison for a high-speed, internet security application. 
+* Combinator Parser results: 90% improvement in BRAM utilization, and +10% Mbps improvement in bandwidth over traditional parsers Bison Parsers, and overall 95% reduction in parser table size.
+* The Sequence Combinator results enable the real-time parsing of JSON objects over HTTP between a server and a client, at internet speeds, such that malicious data packets are discovered and dropped before being transmitted to the client.
 
 **Silvertree: Fall Detection Sensor** `2021-2022` 
 * Lead Algorithm Engineer: Fall-Detection Algorithm for aging adults leveraging an embedded machine learning application within the an IMU (LSM6DSOX)  
-* Designed the experiemtal designs for algorithm development and verification
+* Designed the data-driven, experimental methods for algorithm development and verification
 * Leveraged wireless BLE communication using Nordic Semiconductor's BLE SoC (nRF52840)
 * Embedded ML algorithm withing STmicro's LSM6DSOX for ultra low-power operation
 * [Silvertree](https://silvertree.io/)
 
 **Medrhythms: Embedded Gait Analyzer** `2021-2022` 
 * Lead Algorithm Engineer: Designed a real-time gait cycle time analyzer 
-* Gait detection algorithm measures time of Toe-Off and Heel-Stride events from raw IMU data with <30ms error.
+* Algorithm designed leveraged 3-axis accelerometry and 3 axis-gyroscopic data to infer the step frequency and stride length of recovering stroke victims, in real-time. 
+* Gait detection algorithm measures time of Toe-Off (TO) and Heel-Strike (HS) events from raw IMU data with <30ms error - competitive with Physiolog's state-of-the-art Gait Up sensor.
 * Ported gait analysis algorithm from Python into embedded C on a wireless BLE (nRF52840) chip
 * [Medrhythms](https://medrhythms.com/)
 
 **OPOS1 Compliance Monitor** `2020-2021` 
 * Designed a complete IoT product within 6 months to monitor usage of orthotic/prothetic limbs 
 * Designed and produced a sticker-like wearable sensor that attaches to a prothetic limb and a clinical application
+* Ultra-low power algorithm design required a deterministic, finite-state machine (FSM) to wake up from low-power mode, load the memory of the FSM, measure user activity and step counts, update memory, and return to low-power mode - for months on end.
 * Wireless sensor (BLE) operates >6 months in the field using a single 240mAh coin-cell battery
 * Leveraged Flutter software to generate a mobile, tablet, and web application using a single set of source code
 * [OandP1](https://www.opos1.com)
@@ -294,7 +299,7 @@ Thayer School of Engineering at Dartmouth College, Hanover, NH
 
 ## PUBLICATIONS 
 
-Taylor, S, Pope, Gunnar. __Hardware Sequence Combinators__. ICCWS24 (Pending Publication 2024).
+Taylor, Stephen, and Gunnar Pope. "Hardware Sequence Combinators." International Conference on Cyber Warfare and Security. Vol. 19. No. 1. 2024.  
 
 Mishra, Varun & Pope, Gunnar & Lord, Sarah & Lewia, Stephanie & Lowens, Byron & Caine, Kelly & Sen, Sougata & Halter, Ryan & Kotz, David. (2020). __Continuous Detection of Physiological Stress with Commodity Hardware__. ACM Transactions on Computing for Healthcare. 1. 1-30. 10.1145/3361562. 
 
