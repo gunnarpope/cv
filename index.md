@@ -68,7 +68,6 @@ Minor: Atmospheric Science
 Hanover, NH
 
 * Founder & CEO of BitStory.AI - Leveraging data to decarbonize the planet. Energy market forecasting and dispatch software to minimize financial risk and carbon emissions for renewable energy systems. We specialize in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty. 
-* Specializing in time-series forecasting and modeling under risk and uncertainty
 * Full-stack experience of applied AI/ML technologies across embedded, cloud, and IoT applications
 * Deep expertise in discrete and probabilistic systems
 * Currently developing microservice architectures based upon AWS Lambda, S3, and EC2 technologies
@@ -82,7 +81,7 @@ Lebanon, NH
 
 * Lead Engineer designing wearable biosensors for physiological monitoring 
 * Working with clients to translate their product vision into technical requirements and features
-* Leading hypothesis-driven testing for product performance evaluation and QC 
+* Leading hypothesis-driven testing for product performance evaluation and quality control 
 * Digital architect for real-time processing applications on resource-constrained devices
 * Leveraging machine learning (ML) algorithms to classify physiological behavior
 * Deploying Machine Learning applications (MLops) into the cloud and on embedded devices
@@ -134,7 +133,7 @@ General Contracting, Whitefish, MT
 __Python__   
 7 years experience  
 Machine Learning (Scikit-Learn, PyTorch, Keras, Tensorflow, OpenCV)  
-Probabilistic Programming (pymc, Tensorflow Probability)
+Probabilistic Programming (pymc, Tensorflow Probability)  
 Data Visualization (Matplotlib, Seaborn, Plotly)  
 Algorithm Design
 Data Collection, ETL  
