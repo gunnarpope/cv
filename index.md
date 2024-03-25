@@ -140,15 +140,15 @@ Data Collection, ETL
 Automation and Scripting  
 Package Management (pyenv, conda, pip)  
 Unit Testing (unittest)  
-Wrapping & Testing Applications Written in C
+Wrapping & Testing Applications Written in C  
 Object-Oriented Programming  
-AWS Serverless
-AWS Lambda
-AWS ElasticBeanstalk
+AWS Serverless  
+AWS Lambda  
+AWS ElasticBeanstalk  
 
 __AWS Cloud Computing__  
 4 years experience  
-AWS Serverless (Lambda, S3, CloudFormation, ElasticBeanstalk) 
+AWS Serverless (Lambda, S3, CloudFormation, ElasticBeanstalk)   
 
 __C__   
 12 yrs experienced in embedded C   
