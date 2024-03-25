@@ -228,7 +228,7 @@ Last updated: Feb. 2023 -->
 * Providing advanced energy market forecasts to bolster renewable energy success and reduce carbon emissions
 * Leveraging a variety of ML/AI tools for energy price and load forecasting (DNNs, Quantile Regression, Gradient Boosting, RNNs, CNNs, Gaussian Processes)
 * Leveraging reinforcement learning techniques to adapt real-time renewable asset controls with dynamic market conditions
-* Developed an API interface to query historical data and provide advanced market analytics
+* Developed a serverless API for advanced market analytics
 
 **Net Load Forecasting Competition** `Jul 2023`
 * Day-ahead forecasting competition of net electrical load at 4 different locations for 30 days with high renewable (solar) generation.
