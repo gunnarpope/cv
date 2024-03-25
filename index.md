@@ -359,7 +359,7 @@ A. Fiorentino, Dartmouth Engineer Magazine,
 
 
 ## VOLUNTEERING
-XC Ski Coach for Ford Sayre, Hanover, NH `Winter 2024`
+XC Ski Coach for Ford Sayre, Hanover, NH `Winter 2024`  
 Mentor, EOS.IO Hackathon, San Fransisco, CA `Nov 2018`  
 Ski Patrol, Storres Hill, Lebanon, NH `Winter 17/18`  
 Ski Patrol, Storres Hill, Lebanon, NH `Winter 16/17`  
