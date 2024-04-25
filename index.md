@@ -232,7 +232,7 @@ Last updated: Feb. 2023 -->
 
 **Net Load Forecasting Competition** `Jul 2023`
 * Day-ahead forecasting competition of net electrical load at 4 different locations for 30 days with high renewable (solar) generation.
-* Final ranking was 13th out of 93 for a 1-person team (competing against commercial forecasters and universities with 4+ team members)
+* Final ranking was Top 15 overall (competing against commercial forecasters and universities with 4+ team members)
 * Utilized a variety of ML/AI technologies for probabilistic forecasting models based upon RNNs, CNNs, and Gaussian Processes
 * Automated daily submission of 24-hour probabilistic, net-load forecasts to remote client  
 * Leveraged serverless API framework to gather global, national, and regional meteorological and climatological data
