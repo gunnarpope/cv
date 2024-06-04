@@ -120,13 +120,24 @@ h1,h2,h3,h4 {
 }
 
 h1 {
+	/*title, span across the whole page*/
+	width: 100%;
+	text-align: center;
+	font-size: 3em;
+	line-height: 1em;
+	position: center;
+	margin-bottom: 0.25em; /* added to prevent overlap */
+}
+/*
+h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.25em; /* added to prevent overlap */
+	margin-bottom: 0.25em; 
 }
+*/
 
 h1+p {
 	/*subtitle*/
@@ -162,16 +173,39 @@ a:hover {
 	color:#39f
 }
 
+#tagline {
+	font-size: 1.1em;
+	font-style: italic;
+	text-align: center;
+	margin-top: 1em;
+}
+
+#tagline p {
+	text-decoration: none;
+}
+
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	text-align: center;
 	color: #2986cc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
 
 #webaddress a {
+	text-decoration: none;
+}
+
+#address {
+	margin-top: 1em;
+	text-align: center;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-size: 100%;
+}
+
+
+#address {
 	text-decoration: none;
 }
 
@@ -182,10 +216,6 @@ em {
 
 strong {
 	font-weight: bold;
-}
-
-#address {
-	display: none;
 }
 
 

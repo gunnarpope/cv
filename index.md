@@ -3,7 +3,11 @@ layout: cv
 title: Gunnar Pope's CV
 ---
 # Gunnar Pope, PhD  
-Leveraging Data for Decarbonization, Risk Mitigation, Health and Wellness
+<div id="tagline">
+    <p id="tagline-name"> 
+    Energy Market Forecaster, Machine Learning Engineer, Bayesian Analyst, Embedded Systems & IoT Specialist 
+    </p>
+</div>
 
 <div id="webaddress">
 <a href="https://www.bitstory.ai">BitStory.AI</a>
@@ -12,9 +16,12 @@ Leveraging Data for Decarbonization, Risk Mitigation, Health and Wellness
 | <a href="https://www.researchgate.net/profile/Gunnar-Pope">ResearchGate</a>
 </div>
 
-## ADDRESS 
-PO Box 1
-Hanover, NH 03755
+<div id="address">
+<p> PO Box 1, Hanover, NH 03755 </p>
+</div>
+
+
+
 
 ## CURRENTLY 
 
