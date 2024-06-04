@@ -312,6 +312,6 @@ Judge, FIRST Lego League `March 2013`
 ## INTERESTS 
 *Living Is Learning ~ Learning Is Living*
 
-Applied Machine learning and AI, automation, cloud computing, low-power design, signal compression, mentoring, ski mountaineering, free climbing, surfing, acoustic guitar, piano, water-color painting.
+Decision-making and risk, free climbing, powder skiing, mountain biking, paino
 
 
