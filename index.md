@@ -20,34 +20,72 @@ title: Gunnar Pope's CV
 <p> PO Box 1, Hanover, NH 03755 </p>
 </div>
 
+## SELECT EXPERIENCE 
 
-
+<!-- <hr style="width:80%;text-align:left;margin-left:0;margin-top:2em; margin-right:-2em"> -->
+Energy Market Forecasting (DA/RT LMP, Net Load, Solar, Wind) using AI/ML, Markov Chains, and Probabilistic programming in Python; Dispatch Optimization using Reinforcement Learning, Bayesian Optimization, and Dynamic/Linear Programming; Digital Signal Processing; Cloud-Computing on AWS, Embedded Design in C, MLops, IoT, Test-Driven Design, Automation
 
 ## CURRENTLY 
 
-__Founder & CEO of BitStory.AI__ - Leveraging data to decarbonize the planet. Energy market forecasting and dispatch software to minimize financial risk and carbon emissions for renewable energy systems. We specialize in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty. 
+__Founder: BitStory.AI__ `2022-Present`   
+Leveraging data to decarbonize the planet. Energy market forecasting and dispatch software to minimize financial risk and carbon emissions for renewable energy systems. Specializing in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty. 
+
+## PROGRAMMING EXPERIENCE 
+__Python__  `2017-Present`  
+Machine Learning (Scikit-Learn, PyTorch, Keras, Tensorflow)  
+Probabilistic Programming (pymc, Tensorflow Probability)  
+Time-Series Forecasting (ARIMA, LSTM, GRU, CNN, RNN)  
+Bayesian Analysis, Inference, and Optimization (PyMC3)  
+Data Visualization (Matplotlib, Seaborn, Plotly)  
+SQL and NoSQL Databases via AWS Boto3 (PostgreSQL, DynamoDB)  
+Test-Driven Design (unittest)   
+Data Collection (ETL) and Automation via AWS Lambda  
+Package Management (conda, pip)  
+Wrapping & Testing Applications Written in C  
+Object-Oriented Programming  
+CI/CD Pipelines  
+
+__AWS Cloud Computing__ `2020-Present`    
+Serverless: AWS Lambda  
+Databases: AWS S3, DynamoDB, RDS 
+Websites: AWS ElasticBeanstalk   
+
+__C__  `2012-Present`     
+Ultra-Low Power/Low-Latency Applications    
+Embedded Machine Learning 
+Advanced Digital Signal Processing  
+Data Compression: Lossless and Lossy 
+Filters: Kalman Filters, IIR, FIR Filters 
+Transforms: Fast Fourier Transforms, Wavelet Transforms    
+Wireless Communication (BLE, Zigbee)  
+Injected Dependencies  
+Test-Driven Design via Unity Test Suite  
+Event-Driven Design  
+
+__Linux__ `2012-Present`    
+Ubuntu Desktop  
+Ubuntu Server  
+Debian (RaspberryPi)
+
+__Bash__ `2012-Present`   
+Scripting and Automation   
+
+__Docker__ `2018-Present`   
+Containerizing Applications   
+Infrastructure-as-Code   
+Modular Application Design   
+CI/CD  
 
 
-<!-- ## Professional Objective -->
-
-
-## SPECIALIZATION 
-
-Energy Market Forecasting, Data Science, MLops, IoT, Algorithm Design, Wearable Sensor Technologies, Physiological Sensing, Stress-Detection, Gait Analysis, Fall-Detection, Low-Power Sensor Design, Digital Signal Processing, Electronic Instrumentation Design, Medical Electronics, Test-Driven Design, Automation
-
-## RESEARCH INTERESTS
-
-Forecasting Distributed Energy Resources (DERs), Probabilistic Forecasting using Neural Networks, Applied Machine Learning Applications for Health and Wellness Technologies, Stress Detection, Gait Analysis, Low-Power Sensor Design, Instrumentation Design, Algorithmic Trading 
 
 ## EDUCATION 
 
 __Dartmouth College, Hanover NH__ `2014-2019`    
-
 *Doctor of Philosophy (Ph.D.)*  
 Thayer School of Engineering, Hanover, NH   
 Thesis Title: *An Ultra-Low Resource System for Electrodermal Activity Monitoring*   
 Thesis Topic: Ultra-Low Power Wearable Biosensors  
-Concentration in Biomedical and Electrical Engineering   
+Concentration in Electrical Engineering   
 Advisor: Ryan J. Halter, Ph.D.  
 Relevant Coursework: Ultra-Low Power Embedded Systems; Advanced Digital Electronics and Signal Processing; Biomedical Instrumentation Design; Computer Engineering; Machine Learning
 
@@ -71,137 +109,37 @@ Minor: Atmospheric Science
 <!-- A list is also available [online](https://www.researchgate.net/profile/Gunnar-Pope) -->
 
 ## PROFESSIONAL EXPERIENCE 
-**BitStory.AI**  `Sep 2022 - present`
-Hanover, NH
+**BitStory.AI**  `2022-Present`
+Hanover, NH   
+Founder/Algorithm Engineer of BitStory.AI-Leveraging data to decarbonize the planet. Energy market forecasting and dispatch software to minimize financial risk and carbon emissions for renewable energy systems. Specializing in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty with deep expertise in modeling discrete and probabilistic systems. Currently developing microservice architectures based upon AWS Lambda, S3, and EC2 technologies for continuous forecasting and dispatch optimization. Expertise in high-bandwidth / low-resource applications for applications in energy, cyber-security, and edge computing. 
 
-* Founder & CEO of BitStory.AI - Leveraging data to decarbonize the planet. Energy market forecasting and dispatch software to minimize financial risk and carbon emissions for renewable energy systems. We specialize in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty. 
-* Full-stack experience of applied AI/ML technologies across embedded, cloud, and IoT applications
-* Deep expertise in discrete and probabilistic systems
-* Currently developing microservice architectures based upon AWS Lambda, S3, and EC2 technologies
-* Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
-* Expertise in high-bandwidth / low-resource applications for applications in healthcare, cyber-security, and edge computing
-* Deep expertise in ultra-low power (<100uW) embedded designs for wireless applications
-* Embedding ML algorithms within embedded IMUs (LSM6DSOX) for physiological monitoring and gait analysis
+**Simbex LLC**  `1/2020-9/2022`
+Lebanon, NH   
+Lead Engineer designing wearable biosensors for physiological monitoring. Working with clients to translate their product vision into technical requirements and features. Leading hypothesis-driven testing for product performance evaluation and quality control. Digital architect for real-time processing applications on resource-constrained devices. Leveraging machine learning (ML) algorithms to classify physiological behavior. Deploying Machine Learning applications (MLops) into the cloud and on embedded devices. Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment. Full stack algorithm development using Python for algorithm development. Translating algorithms from Python into embedded-C on a wearable, wireless device. Extensive background in low-power, wireless communication (BLE).
 
-**Simbex LLC**  `Jan 2020 - Sep 2022`
-Lebanon, NH  
-
-* Lead Engineer designing wearable biosensors for physiological monitoring 
-* Working with clients to translate their product vision into technical requirements and features
-* Leading hypothesis-driven testing for product performance evaluation and quality control 
-* Digital architect for real-time processing applications on resource-constrained devices
-* Leveraging machine learning (ML) algorithms to classify physiological behavior
-* Deploying Machine Learning applications (MLops) into the cloud and on embedded devices
-* Automating development pipelines (unit tests, CICD, etc.) for high-quality, continuous deployment
-* Full stack algorithm development using Python for algorithm development
-* Translating algorithms from Python into embedded-C on a wearable, wireless device
-* Extensive background in low-power, wireless communication (BLE)
-
-**Blockchain Engineer (Independent Contractor)** `Jun 2019 - Nov 2019`  
-Stockholm, Sweden (Remote Work)
-* On-line collaboration to developing low-latency blockchain software for smart applications 
-* Applied Cryptography and Big Data Analytics
-
-**Ph.D. Candidate and Researcher** `Sep. 2014 - June 2019`   
+**Ph.D. Candidate and Researcher** `2014-2019`   
 Thayer School of Engineering at Dartmouth College, Hanover, NH  
-* Collaborating with Dartmouth's Computer Science Department and the Center of Technology and Behavior Health 
-to translate digital health technologies into real-world applications
-* Developing analog and quasi-digital instrumentation for ultra-low power biomedical sensors
-* Specializing in digital signal processing on low-resource embedded devices
-* Applying full-stack computer engineering methods to measure, record, visualize, and analyze biomedical data
-* Characterizing of sensor performance using statistical analysis  
+Collaborating with Dartmouth's Computer Science Department and the Center of Technology and Behavior Health 
+translate digital health technologies into real-world applications. Developing analog and quasi-digital instrumentation for ultra-low power biomedical sensors. Specializing in digital signal processing on low-resource embedded devices. Applying full-stack computer engineering methods to measure, record, visualize, and analyze biomedical data. Characterizing of sensor performance using statistical analysis.   
 
-**Quasi-Digital Sensor Design**  `Jun 2019` 
-Low-Resource EDA Sensor Fabrication  
-* First development of a wearable, long-term physiological recorder based on a single 16-bit microcontroller
-* Implemented a multi-level wavelet transformation of the EDA signal
-* Applied real-time signal compression on-board a 16-bit MCU
+**Quasi-Digital Sensor Design**  `6/2019`    
+First development of a wearable, long-term physiological recorder based on a single 16-bit microcontroller. Implemented a multi-level wavelet transformation of the EDA signal to compress the physiological data by 23x. Applied real-time signal compression algorithm on-board a 16-bit MCU.
 
-**Cook Engineering Design Fellow** `Jun 2014 – Sep 2014`  
+**Cook Engineering Design Fellow** `6/2014–9/2014`  
 Thayer School of Engineering at Dartmouth College, Hanover, NH  
-* Recruited engineering projects from industry professionals by matching workplace problems with relevant student talent.
-* Defined scope and breath engineering projects for ENGS 89/90 program.
-* https://engineering.dartmouth.edu/cook/
+Recruited engineering projects from industry professionals by matching workplace problems with relevant student talent. Defined scope and breath engineering projects for ENGS 89/90 program. https://engineering.dartmouth.edu/cook/
 
-**Energy Analyst Intern** `Jun 2013 - Sep 2013`   
+**Energy Analyst Intern** `6/2013-9/2013`   
 Energy Program Office at Dartmouth College, Hanover, NH  
-* Created tools to automate analytics for industrial-scale HVAC data sets to pinpoint inefficient processes.
-* Constructed and tested efficient collection regimes for large-scale data sets.
-* Communicated results to team leader and presented recommendations at weekly meetings with colleagues.
+Created tools to automate analytics for industrial-scale HVAC data sets to pinpoint inefficient processes. Constructed and tested efficient collection regimes for large-scale data sets. Communicated results to team leader and presented recommendations at weekly meetings with colleagues.
 
-**Owner** `Sep 2006 -- May 2012`  
+**Owner** `2006-2012`  
 Pope Custom Construction   
 General Contracting, Whitefish, MT  
-* Managed, supervised and constructed numerous multi-million dollar homes 
-* Coordinated tradesman across multiple stages of the building process
+Managed, supervised and constructed numerous multi-million dollar homes. Coordinated tradesman across multiple stages of the building process.
 
-
-## PROGRAMMING LANGUAGES 
-__Python__   
-7 years experience  
-Machine Learning (Scikit-Learn, PyTorch, Keras, Tensorflow, OpenCV)  
-Probabilistic Programming (pymc, Tensorflow Probability)  
-Data Visualization (Matplotlib, Seaborn, Plotly)  
-Algorithm Design
-Data Collection, ETL  
-Automation and Scripting  
-Package Management (pyenv, conda, pip)  
-Unit Testing (unittest)  
-Wrapping & Testing Applications Written in C  
-Object-Oriented Programming  
-AWS Serverless  
-AWS Lambda  
-AWS ElasticBeanstalk  
-
-__AWS Cloud Computing__  
-4 years experience  
-AWS Serverless (Lambda, S3, CloudFormation, ElasticBeanstalk)   
-
-__C__   
-12 yrs experienced in embedded C   
-Ultra-Low Power Embedded Applications   
-Embedded Machine Learning Applications  
-Data Compression  
-Wavelet Transformations  
-Kalman Filters  
-IIR, FIR Filters  
-Fast Fourier Transforms  
-Wireless Communication (BLE, Zigbee)  
-Real-Time Processing  
-Advanced Digital Signal Processing  
-Object-oriented programming in C  
-Injected Dependencies  
-Test-Driven Design via Unity Test Suite  
-Physiological Instrumentation Design (GSR, PPG, ECG, BP)  
-Long-Range Wireless Applications BLE 5.0 (150m+)  
-Event-Driven Design  
-
-__Linux__   
-7 years experience 
-Ubuntu Desktop  
-Ubuntu Server  
-Debian (RaspberryPi)
-
-__Bash__  
-12 years experience  
-Scripting and Automation   
-
-__Docker__    
-4 years experience  
-Containerizing Applications   
-Infrastructure-as-Code   
-Modular Application Design   
-CI/CD  
-
-__MATLAB__  
-9 years experience  
-Data Processing   
-Data Visualization   
-Algorithm Design   
-
-__Altium__  
-3 years experience  
-Printed Circuit Board Design   
+## RESEARCH INTERESTS
+Forecasting Distributed Energy Resources (DERs), Probabilistic Forecasting using Neural Networks, Applied Machine Learning Applications for Health and Wellness Technologies, Stress Detection, Gait Analysis, Low-Power Sensor Design, Instrumentation Design, Algorithmic Trading 
 
 ## PROFESSIONAL ACHIEVEMENTS 
 **Patent Pending** `Aug 2018`   
@@ -212,12 +150,12 @@ Publication number: [US20210251574A1](https://www.patentguru.com/US2021251574A1)
 
 **Research Funding** `Oct 2016` 
 National Science Foundation, Computer and Network Systems  
-Award Number: CNS-1619970 -  Award Amount: \$815,840.00 - PI(s): Halter/Kotz  
+Award Number: CNS-1619970- Award Amount: \$815,840.00-PI(s): Halter/Kotz  
 
 **Research Funding** `Oct 2014`  
 National Science Foundation, Computer and Network Systems   
 Award Number: CNS-1314281 & Award Amount: $1,009,430.00   
-Award Number: CNS-1314281 - Award Amount: \$1,009,430.00 - PI(s): Halter/Kotz  
+Award Number: CNS-1314281-Award Amount: \$1,009,430.00-PI(s): Halter/Kotz  
 
 **Fundamentals of Engineering Exam** `May 2014` 
 National Council of Examiners for Engineering and Surveying, Concord, NH
@@ -230,12 +168,6 @@ Last updated: Feb. 2023 -->
 
 
 ## PROJECTS 
-
-**BitStory.AI** `2022-present`
-* Providing advanced energy market forecasts to bolster renewable energy success and reduce carbon emissions
-* Leveraging a variety of ML/AI tools for energy price and load forecasting (DNNs, Quantile Regression, Gradient Boosting, RNNs, CNNs, Gaussian Processes)
-* Leveraging reinforcement learning techniques to adapt real-time renewable asset controls with dynamic market conditions
-* Developed a serverless API for advanced market analytics
 
 **Net Load Forecasting Competition** `Jul 2023`
 * Day-ahead forecasting competition of net electrical load at 4 different locations for 30 days with high renewable (solar) generation.
@@ -261,14 +193,14 @@ Last updated: Feb. 2023 -->
 **Medrhythms: Embedded Gait Analyzer** `2021-2022` 
 * Lead Algorithm Engineer: Designed a real-time gait cycle time analyzer 
 * Algorithm designed leveraged 3-axis accelerometry and 3 axis-gyroscopic data to infer the step frequency and stride length of recovering stroke victims, in real-time. 
-* Gait detection algorithm measures time of Toe-Off (TO) and Heel-Strike (HS) events from raw IMU data with <30ms error - competitive with Physiolog's state-of-the-art Gait Up sensor.
+* Gait detection algorithm measures time of Toe-Off (TO) and Heel-Strike (HS) events from raw IMU data with <30ms error-competitive with Physiolog's state-of-the-art Gait Up sensor.
 * Ported gait analysis algorithm from Python into embedded C on a wireless BLE (nRF52840) chip
 * [Link: Medrhythms](https://medrhythms.com/)
 
 **OPOS1 Compliance Monitor** `2020-2021` 
 * Designed a complete IoT product within 6 months to monitor usage of orthotic/prothetic limbs 
 * Designed and produced a sticker-like wearable sensor that attaches to a prothetic limb and a clinical application
-* Ultra-low power algorithm design required a deterministic, finite-state machine (FSM) to wake up from low-power mode, load the memory of the FSM, measure user activity and step counts, update memory, and return to low-power mode - for months on end.
+* Ultra-low power algorithm design required a deterministic, finite-state machine (FSM) to wake up from low-power mode, load the memory of the FSM, measure user activity and step counts, update memory, and return to low-power mode-for months on end.
 * Wireless sensor (BLE) operates >6 months in the field using a single 240mAh coin-cell battery
 * Leveraged Flutter software to generate a mobile, tablet, and web application using a single set of source code
 * [Link: OandP1](https://www.opos1.com)
@@ -288,13 +220,13 @@ Thayer School of Engineering at Dartmouth College, Hanover, NH
 * Instrumentation Design Experience: optical heart rate monitor (PPG), electrodermal activity sensor (EDA), 2-lead ECG heart rate monitor
 
 **The ICE-MITT Project**
-Mobile Ice-Core Cooling System `Summer 2014`  
+Mobile Ice-Core Cooling System `6/2014`  
 Thayer School of Engineering at Dartmouth College, Hanover, NH 
 * Designed, constructed, and implemented a mobile, 1 kW thermoelectric cooling system for the `transportation of ice cores from Barrow, AK to Hanover, NH.
 * Developed cooling system was first to transport arctic sea ice at original temperatures.
 * https://engineering.dartmouth.edu/magazine/dartmouth-engineers-develop-new-device-for-climate-change-research/
 
-**Hypertherm Sustainability Project** `Sept. 2013 - March 2014`
+**Hypertherm Sustainability Project** `9/2013-3/2014`
 Thayer School of Engineering at Dartmouth College, Hanover, NH  
 21 Great Hollow Road, Hypertherm Inc., Lebanon, NH  
 * Worked in a team of 4 to assess the feasibility of a bio-fuel based commercial boiler to replace `a 2.2 MMBtu/hr diesel system.
