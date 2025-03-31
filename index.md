@@ -5,7 +5,7 @@ title: Gunnar Pope's CV
 # Gunnar Pope, PhD  
 <div id="tagline">
     <p id="tagline-name"> 
-    Energy Market Forecaster, Machine Learning Engineer, Bayesian Analyst, Embedded Systems & IoT Specialist 
+    Saas Founder at BitStory.AI, Lecturer at Dartmouth College, ML/AI Engineer, Expert in Ultra Low-Power Systems 
     </p>
 </div>
 
