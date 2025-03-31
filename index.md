@@ -23,7 +23,7 @@ title: Gunnar Pope's CV
 ## SELECT EXPERIENCE 
 
 <!-- <hr style="width:80%;text-align:left;margin-left:0;margin-top:2em; margin-right:-2em"> -->
-Developing software products for the Energy Transition that leverage AI/ML to forecast energy demand and generation to optimize renewable operations. Techniques include time-series forecasting (DA/RT LMP, Net Load, Solar, Wind) using AI/ML, Markov Chains, and Probabilistic programming Languages (PPL); Dispatch Optimization using Reinforcement Learning, Bayesian Optimization, and Linear Programming; Digital Signal Processing; Cloud-Computing on AWS, 
+Developing software products for the Energy Transition that leverage AI/ML to forecast energy demand and generation to optimize renewable operations. Techniques include time-series forecasting (DA/RT LMP, Net Load, Solar, Wind) using AI/ML, Markov Chains, and Probabilistic programming Languages (PPL); Dispatch Optimization using Reinforcement Learning, Bayesian Optimization, and Linear Programming; Digital Signal Processing; Cloud-Native Software Development; and Embedded Systems.
 
 ## CURRENTLY 
 
