@@ -23,18 +23,18 @@ title: Gunnar Pope's CV
 ## SELECT EXPERIENCE 
 
 <!-- <hr style="width:80%;text-align:left;margin-left:0;margin-top:2em; margin-right:-2em"> -->
-Energy Market Forecasting (DA/RT LMP, Net Load, Solar, Wind) using AI/ML, Markov Chains, and Probabilistic programming in Python; Dispatch Optimization using Reinforcement Learning, Bayesian Optimization, and Dynamic/Linear Programming; Digital Signal Processing; Cloud-Computing on AWS, Embedded Design in C, MLops, IoT, Test-Driven Design, Automation
+Developing software products for the Energy Transition that leverage AI/ML to forecast energy demand and generation to optimize renewable operations. Techniques include time-series forecasting (DA/RT LMP, Net Load, Solar, Wind) using AI/ML, Markov Chains, and Probabilistic programming Languages (PPL); Dispatch Optimization using Reinforcement Learning, Bayesian Optimization, and Linear Programming; Digital Signal Processing; Cloud-Computing on AWS, 
 
 ## CURRENTLY 
 
 __Founder: BitStory.AI__ `2022-Present`   
-Leveraging data to decarbonize the planet. Energy market forecasting and dispatch software to minimize financial risk and carbon emissions for renewable energy systems. Specializing in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty. 
+Forecast. Optimize. Decarbonize. Energy market forecasting and dispatch software to minimize financial risk and carbon emissions for wholesale and retail electricity market participants. Specializing in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty. 
 
 ## PROGRAMMING EXPERIENCE 
 __Python__  `2017-Present`  
-Machine Learning (Scikit-Learn, PyTorch, Keras, Tensorflow)  
+Machine Learning (PyTorch, Scikit-Learn, Keras, Tensorflow)  
 Probabilistic Programming (pymc, Tensorflow Probability)  
-Time-Series Forecasting (ARIMA, LSTM, GRU, CNN, RNN)  
+Time-Series Forecasting (Transformers, Attention, ARIMA, LSTM, GRU, CNN, RNN)  
 Bayesian Analysis, Inference, and Optimization (PyMC3)  
 Data Visualization (Matplotlib, Seaborn, Plotly)  
 SQL and NoSQL Databases via AWS Boto3 (PostgreSQL, DynamoDB)  
@@ -46,8 +46,8 @@ Object-Oriented Programming
 CI/CD Pipelines  
 
 __AWS Cloud Computing__ `2020-Present`    
-Serverless: AWS Lambda  
-Databases: AWS S3, DynamoDB, RDS 
+Serverless: AWS Lambda, Glue, Step Functions, API Gateway  
+Databases: AWS S3, Athena, DynamoDB 
 Websites: AWS ElasticBeanstalk   
 
 __C__  `2012-Present`     
@@ -111,7 +111,10 @@ Minor: Atmospheric Science
 ## PROFESSIONAL EXPERIENCE 
 **BitStory.AI**  `2022-Present`
 Hanover, NH   
-Founder/Algorithm Engineer of BitStory.AI-Leveraging data to decarbonize the planet. Energy market forecasting and dispatch software to minimize financial risk and carbon emissions for renewable energy systems. Specializing in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty with deep expertise in modeling discrete and probabilistic systems. Currently developing microservice architectures based upon AWS Lambda, S3, and EC2 technologies for continuous forecasting and dispatch optimization. Expertise in high-bandwidth / low-resource applications for applications in energy, cyber-security, and edge computing. 
+Technical-Founder at BitStory.AI - An Energy market forecasting and dispatch software platform to minimize financial risk and carbon emissions for renewable energy systems. Specializing in probabilistic, time-series forecasting software to help businesses make better decisions under uncertainty with deep expertise in modeling discrete and probabilistic systems. Currently developing microservice architectures based upon AWS Lambda, S3, and EC2 technologies for continuous forecasting and dispatch optimization. 
+
+**Lecturer, Dartmouth College** `6/2024-Present`
+Instructed an introductory course on deterministic and probabilistic methods for modeling, analyzing, and designing systems. Mathematical topics include the fundamentals of state-machines, probability, random variables and common probability distributions, basic queueing theory, and stochastic simulation. Applications, drawn from a variety of engineering settings, may include measurement and noise, information theory and coding, computer networks, diffusion, fatigue and failure, reliability, statistical mechanics, ecology, decision making, and robust design.
 
 **Simbex LLC**  `1/2020-9/2022`
 Lebanon, NH   
@@ -142,7 +145,11 @@ Managed, supervised and constructed numerous multi-million dollar homes. Coordin
 Forecasting Distributed Energy Resources (DERs), Probabilistic Forecasting using Neural Networks, Applied Machine Learning Applications for Health and Wellness Technologies, Stress Detection, Gait Analysis, Low-Power Sensor Design, Instrumentation Design, Algorithmic Trading 
 
 ## PROFESSIONAL ACHIEVEMENTS 
-**Patent Pending** `Aug 2018`   
+
+**Capital Funding** `Jan 2025`
+Bitstory.ai raises \$500k USD in seed funding to develop energy market forecasting software.
+
+**US Patent US2021/0251574A1** `Aug 19, 2021`   
 ``A micro-recording device for physiological signals"   
 Inventors: Halter, R.J., Pope, G.C.  
 Application Number: US17/270,971  
@@ -168,10 +175,13 @@ Last updated: Feb. 2023 -->
 
 
 ## PROJECTS 
+**BitStory.AI Platform** `2023-Present`
+* Architected and deployed an AWS serverless infrastructure reducing operational costs by 35% and improving scalability by implementing Infrastructure as Code (IaC) using Terraform.
+* Developed automated data ingestion pipelines for all national energy data at regional resolution. 
+* Developed a stochastic optimization algorithm for energy purchase/sales considering financial costs and emissions impact (currently in development; results pending). 
 
 **Net Load Forecasting Competition** `Jul 2023`
 * Day-ahead forecasting competition of net electrical load at 4 different locations for 30 days with high renewable (solar) generation.
-* Final ranking was Top 15 overall (competing against commercial forecasters and universities with 4+ team members)
 * Utilized a variety of ML/AI technologies for probabilistic forecasting models based upon RNNs, CNNs, and Gaussian Processes
 * Automated daily submission of 24-hour probabilistic, net-load forecasts to remote client  
 * Leveraged serverless API framework to gather global, national, and regional meteorological and climatological data
