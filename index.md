@@ -49,6 +49,7 @@ __AWS Cloud Computing__ `2020-Present`
 Serverless: AWS Lambda, Glue, Step Functions, API Gateway  
 Databases: AWS S3, Athena, DynamoDB 
 Websites: AWS ElasticBeanstalk   
+Infastructure-as-Code: Terraform/OpenTofu
 
 __C__  `2012-Present`     
 Ultra-Low Power/Low-Latency Applications    
@@ -147,6 +148,7 @@ Forecasting Distributed Energy Resources (DERs), Probabilistic Forecasting using
 ## PROFESSIONAL ACHIEVEMENTS 
 
 **Capital Funding** `Jan 2025`
+
 Bitstory.ai raises \$500k USD in seed funding to develop energy market forecasting software.
 
 **US Patent US2021/0251574A1** `Aug 19, 2021`   
